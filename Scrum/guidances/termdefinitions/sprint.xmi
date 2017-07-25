@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fcoz1Nm_QnX6xtLg5YWdVg" name="new_term_definition,_kftWoIHqEduFs9jH8xc4xw" guid="-fcoz1Nm_QnX6xtLg5YWdVg" changeDate="2006-12-02T07:51:49.500-0200" version="1.0.0">
+  <mainDescription>A sprint is a Timebox leading to create a product increment. It's the Scrum term for &quot;iteration&quot;.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

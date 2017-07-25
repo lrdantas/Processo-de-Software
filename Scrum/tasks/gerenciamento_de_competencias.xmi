@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9JVhpu6_iXe2IHS3z1APEQ" name=",_5SLwgHCgEeetYMsQ8VCH7Q" guid="-9JVhpu6_iXe2IHS3z1APEQ" changeDate="2017-07-24T15:54:32.627-0300">
+  <mainDescription>&lt;p>&#xD;
+    Sempre que for possível, realizar uma programação em pares juntando membros com areas de expertise diferentes visando&#xD;
+    um aprendizado e crescimento&amp;nbsp;mutuo entre os membros da equipe.&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+    Fazer com que um integrante com conhecimento especifico passe essa competencia para um membro que ainda não tem dominio&#xD;
+    neste tipo de tarefa&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

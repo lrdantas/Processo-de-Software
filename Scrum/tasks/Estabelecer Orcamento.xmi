@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-C2v6G5sTp5bLc3iJpYK7oA" name=",_NxfqIHCdEeetYMsQ8VCH7Q" guid="-C2v6G5sTp5bLc3iJpYK7oA" changeDate="2017-07-24T15:25:59.604-0300">
+  <mainDescription>&lt;p>&#xD;
+    1 - Recursos devem ser alocados e custo contabilizado.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    2 - Definir Pontos de controle, nos quais o orçamento e cronograma é revisto.&#xD;
+&lt;/p></mainDescription>
+  <purpose>Estabelecer Gastos do Projeto baseado nas especificações e objetivos que o projeto deseja alcançar.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

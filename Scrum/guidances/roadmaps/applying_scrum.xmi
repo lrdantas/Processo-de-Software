@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-IPxNSDzXKWa-H_kJ2PMtYA" name="new_roadmap,_6Jox0IRuEduo75chJsIcXg" guid="-IPxNSDzXKWa-H_kJ2PMtYA" changeDate="2006-12-05T13:29:34.781-0200" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    The Agile Manifesto claims that &quot;Individuals and interactions [are valued] over processes and tools&quot; for project&#xD;
+    success. This principle must be kept in mind within the application of Scrum. Scrum characteristics should also be&#xD;
+    followed:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Empirical approach based on process control,&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        adaptative rather than predictive planning,&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        team self-management to do what's need to be done.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Although, Scrum does not describe engineering activities required for product development.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The application of Scrum as described below, must be read and used with these Agile principles always in mind. It shows&#xD;
+    how Scrum elements are used during a time period or lifecycle.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This lifecycle does not represent the whole product life, but only regards the production of one &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../Scrum/guidances/termdefinitions/Release_A7C0A48E.html&quot; guid=&quot;_AIB9gIHrEduFs9jH8xc4xw&quot;>Release&lt;/a>. The&#xD;
+    &lt;a class=&quot;elementLink&quot; href=&quot;./../../../Scrum/guidances/concepts/Produit,%20release%20et%20sprint_6CF0007C.html&quot;&#xD;
+    guid=&quot;_XtRuYP-zEdqLnajTSLeAsA&quot;>Product, release and sprint&lt;/a> guide&amp;nbsp;reconsider this period in a larger context.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

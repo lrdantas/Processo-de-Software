@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3f4axrWBKHGv74oKN2x-gQ" name="Plan release,_ho-aIP_BEdqtbrr0B1TG-A" guid="-3f4axrWBKHGv74oKN2x-gQ" authors="Easy-Tour" changeDate="2017-07-24T22:49:20.526-0300" version="1.0.0">
+  <keyConsiderations>&lt;p>&#xD;
+    É um trabalho coletivo iniciado pelo Product Owner.&#xD;
+&lt;/p></keyConsiderations>
+  <sections xmi:id="_8qN08APJEdubhrgDuRb4fA" name="Defining release success criterias." guid="_8qN08APJEdubhrgDuRb4fA">
+    <sectionDescription>&lt;p>&#xD;
+    There are 2 types of releases&amp;nbsp; :&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        end date driven release. The goal is to be on production or available to end users before a deadline.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        feature driven release. The list of requirements est known and release will end when all of the requirements will&#xD;
+        be implemented.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Success criterias depends on release type.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_BuXEQAPKEdubhrgDuRb4fA" name="Estimating backlog items" guid="_BuXEQAPKEdubhrgDuRb4fA">
+    <sectionDescription>&lt;p>&#xD;
+    Estimation is performed per item. It's best to work on most important items first.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Estimation is performed by the team.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The unit of measure used for estimations is commonly the point. The range of values is picked from the Fibonacci&#xD;
+    Numbers: 1, 2, 3, 5, 8 and 13.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Estimation techniques are preferably based on a collective estimation approach. &quot;Planning Poker&quot; should be the rule of&#xD;
+    game and also working with analogies by comparing estimated items works well.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_EaLKQAPKEdubhrgDuRb4fA" name="Defining sprints length" guid="_EaLKQAPKEdubhrgDuRb4fA">
+    <sectionDescription>&lt;p>&#xD;
+    Historically in Scrum, a sprint length is 30 days. However, it is possible, and even recommended to make shorted&#xD;
+    sprints. Length depends on the project and its constraints.&lt;br />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_HDZ2UAPKEdubhrgDuRb4fA" name="Estimating velocity" guid="_HDZ2UAPKEdubhrgDuRb4fA">
+    <sectionDescription>&lt;p>&#xD;
+    Ideally, the team should yet have worked together on a project so its actual &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../Scrum/guidances/termdefinitions/Velocity_410B5A1F.html&quot; guid=&quot;_HQEP8ILXEduLd8CaF_IcMA&quot;>Velocity&lt;/a>&#xD;
+    should be yet known. This value would then be used for this release, eventually adjusted to the nature of the project.&#xD;
+    Attention however as a point hasn't necessarily the same value across different projects.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    If it's not the case, velocity must be estimated. The best way is to work on the first sprint's content and figure what&#xD;
+    the team thinks being able to implement during this first sprint. This gives a velocity estimation which can be used&#xD;
+    for the release planning. Then, planning will be based on velocity measured during previous sprints.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_I71XkAPKEdubhrgDuRb4fA" name="Associating backlog items to sprints" guid="_I71XkAPKEdubhrgDuRb4fA">
+    <sectionDescription>&lt;p>&#xD;
+    With the following parameters:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        each item estimation,&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        items prioritization,&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        estimated velocity for the release,&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    items are affected to sprints of the release.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It is normal to adjust, i.e. to slightly change items prioritization, so the velocity can be the most accurate.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Items must be associated to the first sprints (2 or 3 first ones), but it is not required to do it for all sprints of&#xD;
+    the release at first.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    Configurando o planejamento inicial do lançamento para lançar a série de sprints.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

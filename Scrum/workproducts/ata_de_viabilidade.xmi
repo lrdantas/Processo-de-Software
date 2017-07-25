@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EwvPTyt5NzDxHquRTXQRYw" name="new_artifact,_U_7QoHCmEeetYMsQ8VCH7Q" guid="-EwvPTyt5NzDxHquRTXQRYw" changeDate="2017-07-24T16:31:54.906-0300">
+  <purpose>&lt;p>&#xD;
+    Somente o product owner pode decidir se o projeto é ou não uma falha.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

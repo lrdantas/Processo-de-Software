@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wLX6YMdSxoHU6dlg3dO9DQ" name=",_RqPjsHClEeetYMsQ8VCH7Q" guid="-wLX6YMdSxoHU6dlg3dO9DQ" changeDate="2017-07-24T16:24:31.881-0300">
+  <mainDescription>O estudo de viabilidade considera o escopo do projeto e examina aspectos técnicos (requisitos e recursos), financeiros&#xD;
+(capacidade da organização) e humanos (disponibilidade de pessoas com a capacitação necessária). Pode-se considerar também&#xD;
+os objetivos de negócio e a composição do portfólio de projetos da organização. Muitas vezes é preferível não iniciar ou&#xD;
+parar um projeto já iniciado do que prosseguir com um projeto inviável, que pode implicar perdas maiores, tanto para o&#xD;
+fornecedor como para o cliente.</mainDescription>
+  <purpose>Analisar no fim de cada sprint a viabilidade do projeto, se ele tem ou não chances de falha e etc.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

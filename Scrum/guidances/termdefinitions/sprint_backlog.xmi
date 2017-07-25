@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-uYAXuZa4oRnLyYyToNqydQ" name="new_term_definition,_UJZQwESQEdyDx7cbCULuLg" guid="-uYAXuZa4oRnLyYyToNqydQ" authors="Lyndon Washington" changeDate="2007-08-10T12:54:16.636-0300" changeDescription="Initial revision" version="0.1">
+  <copyrightStatement href="uma://_mQ3eoPpYEdqsc-f87sBK8A#_N8zs0AEGEduzRosbOajx7w"/>
+  <mainDescription>The Sprint Backlog contains the work that the team has committed to for the Sprint, including all of the tasks that need to&#xD;
+be completed to implement the Product Backlog Items.&amp;nbsp; The Sprint backlog is owned by the team.&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

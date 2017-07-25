@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-CgLjZ6Bwc0EyYyQCjzlw7g" name="new_role_set,_3qmmoP-zEdqLnajTSLeAsA" guid="-CgLjZ6Bwc0EyYyQCjzlw7g" changeDate="2017-07-24T23:43:47.341-0300" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    Scrum tem três papéis principais identificados para interagir no processo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Equipe - Proprietário do produto -&lt;br />&#xD;
+    Scrum Master - Responsável pelo processo.&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Team&lt;/b> - Responsável por fazer o trabalho.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Product Owner&lt;/b> - Responsável pela direção do produto.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Scrum Master&lt;/b> - Responsável pela direção do processo.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Stakeholder&lt;/b> - Parte interessada.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

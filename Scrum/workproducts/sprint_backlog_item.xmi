@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-6UJtuFO3WFBFpJOFeV1QMQ" name="new_artifact,_9C78MIHnEdu3SZQ-Dp1OAA" guid="-6UJtuFO3WFBFpJOFeV1QMQ" changeDate="2006-12-02T07:38:33.140-0200" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    Each task has the following attributes:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Estimation of time to spend to complete the task. Efforts are estimated, by the team, in hours on a 1 to 16 hours&#xD;
+        range. Greater tasks should be divided. Estimation of remaining work to do is updated daily.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The&lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/workproducts/Product%20Backlog%20Item_C561C125.html&quot;&#xD;
+        guid=&quot;_-D85cIGIEduKE9hnyImx1Q&quot;>Product Backlog Item&lt;/a>&amp;nbsp;parent of this task&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        the person taking this task into account.&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-vE0OcnT3L7aiB5yfqTj6rQ" name=",_2kViUESNEdyDx7cbCULuLg" guid="-vE0OcnT3L7aiB5yfqTj6rQ" authors="Lyndon Washington" changeDate="2007-08-06T23:30:45.903-0300" changeDescription="Initial revision" version="0.1">
+  <copyrightStatement href="uma://_mQ3eoPpYEdqsc-f87sBK8A#_N8zs0AEGEduzRosbOajx7w"/>
+  <mainDescription>The time when the team meets to discover impediments, progress and the general state of the Sprint from each other.&amp;nbsp;
+        The daily standup occurs at the same time, same place and is only available for team members to express their status, not
+        interested stakeholders.&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

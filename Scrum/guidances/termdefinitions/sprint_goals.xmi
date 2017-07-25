@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wVjyoLwBRbM0rQtwV8Y5zw" name="new_term_definition,_KKPDgESREdyDx7cbCULuLg" guid="-wVjyoLwBRbM0rQtwV8Y5zw" authors="Lyndon Washington" changeDate="2007-08-06T23:53:25.693-0300" changeDescription="Initial revision" version="0.1">
+  <copyrightStatement href="uma://_mQ3eoPpYEdqsc-f87sBK8A#_N8zs0AEGEduzRosbOajx7w"/>
+  <mainDescription>The Product Owner and Team will identify some scope for the Sprint to provide some indications of the expectations for the
+        Sprint and provide some measure of success.&amp;nbsp; Sprint goals help provide focus on Team design and implementation
+        decisions.&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

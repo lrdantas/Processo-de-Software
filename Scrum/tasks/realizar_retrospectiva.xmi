@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-S4qXwp40l_8eCcyyI7o-3A" name="realizar_retrospectiva,_J_sRIP_AEdqtbrr0B1TG-A" guid="-S4qXwp40l_8eCcyyI7o-3A" authors="Easy-Tour" changeDate="2017-07-24T22:36:10.682-0300" version="1.0.0">
+  <keyConsiderations>&lt;p>&#xD;
+    Cada membro da equipe é convidado a se expressar sobre o que foi bom e ruim.&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Duração máxima: 2 horas&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        duração média: 1 hora&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></keyConsiderations>
+  <sections xmi:id="_lwzeABGPEduHloEV5-Zv-w" name="Discussion" guid="_lwzeABGPEduHloEV5-Zv-w">
+    <sectionDescription>Each team member is invited to express himself on what went good and bad in the application of Scrum for the project.</sectionDescription>
+  </sections>
+  <sections xmi:id="_noL2YBGPEduHloEV5-Zv-w" name="Defining the action plan" guid="_noL2YBGPEduHloEV5-Zv-w">
+    <sectionDescription>&lt;p>&#xD;
+    The team talk about possible improvements and set up priorities.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The &lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/roles/ScrumMaster_FB66563.html&quot;&#xD;
+    guid=&quot;_t1K9kPpYEdqsc-f87sBK8A&quot;>ScrumMaster&lt;/a> adds improvment actions to the backlog.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    Objetivo é melhorar continuamente o processo.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-C24lqczB2CLfgAZUO7VGsA" name="new_artifact,_zN3lAHCdEeetYMsQ8VCH7Q" guid="-C24lqczB2CLfgAZUO7VGsA" changeDate="2017-07-24T15:30:24.658-0300">
+  <mainDescription>&lt;p>&#xD;
+    &lt;br />&#xD;
+    &amp;nbsp; O diagrama de Gantt é um gráfico usado para ilustrar o avanço das diferentes etapas de um projeto. Os intervalos&#xD;
+    de tempo representando o início e fim de cada fase aparecem como barras coloridas sobre o eixo horizontal do gráfico.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Desenvolvido em 1917 pelo engenheiro mecânico Henry Gantt, esse gráfico é utilizado como uma ferramenta de controle de&#xD;
+    produção. Nele podem ser visualizadas as tarefas de cada membro de uma equipe, bem como o tempo utilizado para&#xD;
+    cumpri-la. Assim, pode-se analisar o empenho de cada membro no grupo, desde que estejam associados, à tarefa, como um&#xD;
+    recurso necessário ao desempenho dela.&#xD;
+&lt;/p></mainDescription>
+  <purpose>Gerar o diagrama para estipular prazos do conjunto de atividades.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-vDOuVl_xPKipKd90HQNZng" name="realizar_encontro_diario_scrum,_d09LYP_AEdqtbrr0B1TG-A" guid="-vDOuVl_xPKipKd90HQNZng" changeDate="2017-07-24T22:39:17.796-0300" version="1.0.0">
+  <keyConsiderations>&lt;p>&#xD;
+    O objetivo é se concentrar no progresso do time e identificar problemas. Objetivo é apenas examinar o progresso do&#xD;
+    trabalho, não para resolver problemas.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Este encontro dura em média 15 minutos.&amp;nbsp;&#xD;
+&lt;/p></keyConsiderations>
+  <sections xmi:id="_oUrlcBGOEduHloEV5-Zv-w" name="Preparing" guid="_oUrlcBGOEduHloEV5-Zv-w">
+    <sectionDescription>Everyone updates the planning ( this sprint's backlog) by updating the remaining work on each respective tasks, which leads&#xD;
+to a &lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/guidances/reports/Sprint%20Burndown%20Chart_C6600C07.html&quot;&#xD;
+guid=&quot;_jC4NwPpaEdqsc-f87sBK8A&quot;>Sprint Burndown Chart&lt;/a>.</sectionDescription>
+  </sections>
+  <sections xmi:id="_r0KkEBGOEduHloEV5-Zv-w" name="Gathering all together" guid="_r0KkEBGOEduHloEV5-Zv-w">
+    <sectionDescription>&lt;p>&#xD;
+    Each team member express himself one after one, answering to 3 questions on:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        what has been done since the previous daily scrum&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        What will be done today&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Experienced problems&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;p>&#xD;
+    This meeting should occur with all team member standing up in a circle, with &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../Scrum/workproducts/Sprint%20backlog_AEF9CB4A.html&quot; guid=&quot;_Dzw70PpZEdqsc-f87sBK8A&quot;>Sprint backlog&lt;/a> and&#xD;
+    up-to-date &lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/guidances/reports/Sprint%20Burndown%20Chart_C6600C07.html&quot;&#xD;
+    guid=&quot;_jC4NwPpaEdqsc-f87sBK8A&quot;>Sprint Burndown Chart&lt;/a> before their eyes.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_vZkkgBGOEduHloEV5-Zv-w" name="Consolider" guid="_vZkkgBGOEduHloEV5-Zv-w">
+    <sectionDescription>The up-to-date &lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/workproducts/Sprint%20backlog_AEF9CB4A.html&quot;&#xD;
+guid=&quot;_Dzw70PpZEdqsc-f87sBK8A&quot;>Sprint backlog&lt;/a> helps to make a decision on adjusting the Sprint Goal. It must be kept in&#xD;
+mind that a sprint is time-limited (timebox) and that it is preferable to remove initialy forecasted content rather than&#xD;
+getting late. &lt;br />&#xD;
+ Submitted problems are solved during &lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/tasks/Manage%20problems_3EEA5FD9.html&quot;&#xD;
+guid=&quot;_Xpd5gP_AEdqtbrr0B1TG-A&quot;>Manage problems&lt;/a>&amp;nbsp;initiated by the &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../Scrum/roles/ScrumMaster_FB66563.html&quot; guid=&quot;_t1K9kPpYEdqsc-f87sBK8A&quot;>ScrumMaster&lt;/a>.</sectionDescription>
+  </sections>
+  <purpose>O objetivo é examinar o progresso do trabalho e identificar possíveis problemas, mas não resolver problemas.</purpose>
+  <alternatives>&lt;p>&#xD;
+    Também chamado de Stand-Up Meeting (XP), Daily Stand-Up&#xD;
+&lt;/p></alternatives>
+</org.eclipse.epf.uma:TaskDescription>

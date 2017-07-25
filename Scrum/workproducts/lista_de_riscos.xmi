@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-_Pqk6Y7aM3t9HWesWl0HBw" name="new_artifact,__XWNYHCfEeetYMsQ8VCH7Q" guid="-_Pqk6Y7aM3t9HWesWl0HBw" changeDate="2017-07-24T15:44:48.617-0300">
+  <mainDescription>&lt;ol>&#xD;
+    &lt;li>&#xD;
+        Os riscos identificados devem ser registrados, bem como o acompanhamento dos&lt;br />&#xD;
+        seus estados e ações tomadas.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Uma planilha de riscos, contendo dados como&lt;br />&#xD;
+        identificador, descrição, probabilidade, impacto e prioridades no seu tratamento,&lt;br />&#xD;
+        pode ser utilizada para identificação dos riscos, monitoração dos riscos identificados&lt;br />&#xD;
+        e atualização da lista de riscos do projeto à medida que novos riscos forem sendo&lt;br />&#xD;
+        identificados.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        É importante demonstrar que esta planilha está sendo monitorada e&lt;br />&#xD;
+        atualizada&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></mainDescription>
+  <purpose>Lista de Riscos colocadas em uma planilha que devem ser registrados, monitorados e atualizados ao decorrer do projeto</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-eSc2tcV1h17HBw_s8ROEVw" name="Backlogs,_d-yk8ABREdu3o4yroaI-tA" guid="-eSc2tcV1h17HBw_s8ROEVw" authors="Easy-Tour" changeDate="2017-07-24T23:38:38.692-0300" version="7.1.0">
+  <mainDescription>&lt;p>&#xD;
+    Sprint e Product backlogs são os principais elementos de gerenciamento no processo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A partir de backlogs, os relatórios são produzidos, como o Release Burndown Chart ou Sprint Burndown Chart.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>A backlog é unma lista de itens.</keyConsiderations>
+</org.eclipse.epf.uma:ContentDescription>

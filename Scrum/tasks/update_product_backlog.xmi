@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-XdgedeazfFRGDxMY3Fnh5g" name="Manage product backlog,_STkWYP_BEdqtbrr0B1TG-A" guid="-XdgedeazfFRGDxMY3Fnh5g" changeDate="2017-07-24T22:51:51.111-0300" version="1.0.0">
+  <keyConsiderations>&lt;p>&#xD;
+    Durante uma sprint, ninguém pode modificar a seleção de itens de backlog, feitos no início do sprint: o escopo de&#xD;
+    sprint permanece inalterado.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    No entanto, qualquer pessoa, mesmo um participante externo, pode sugerir novos itens para mais tarde. Esses itens são&#xD;
+    estudados e priorizados pelo proprietário do produto antes do próximo planejamento de sprint.&lt;br />&#xD;
+    Bugs e solicitações de aprimoramento provenientes de testes de produtos parciais realizados no final do sprint anterior&#xD;
+    também são usados para atualizar o backlog.&#xD;
+&lt;/p></keyConsiderations>
+  <sections xmi:id="_c3HaQAPKEdubhrgDuRb4fA" name="Collecting changes" guid="_c3HaQAPKEdubhrgDuRb4fA">
+    <sectionDescription>&lt;p>&#xD;
+    Anyone, even an external stakeholder, can suggest changes to be added to the backlog.&lt;br />&#xD;
+     Bugs and enhancement requests coming from partial product tests done at the end of previous sprint are also used to&#xD;
+    update the backlog.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    These items are analyzed by the product owner prior to next sprint planning.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_fkXDoAPKEdubhrgDuRb4fA" name="Reprioritizing items" guid="_fkXDoAPKEdubhrgDuRb4fA">
+    <sectionDescription>Added items since previous sprint are prioritized in the backlog by the &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../Scrum/roles/Product%20Owner_D991557B.html&quot; guid=&quot;_ICJyYPpaEdqsc-f87sBK8A&quot;>Product Owner&lt;/a> prior to next&#xD;
+sprint planning.</sectionDescription>
+  </sections>
+  <sections xmi:id="_k-kCgAPKEdubhrgDuRb4fA" name="Reestimating items" guid="_k-kCgAPKEdubhrgDuRb4fA">
+    <sectionDescription>&lt;p>&#xD;
+    Point-based estimation of new items added to the backlog is done by the team, ideally during a brainstorming with the&#xD;
+    Product Owner, one or two days prior to Sprint review.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Existing items can also be reestimated.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    Atualizando o backlog e ajustando o planejamento, tendo em conta as mudanças surgidas desde o último sprint.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

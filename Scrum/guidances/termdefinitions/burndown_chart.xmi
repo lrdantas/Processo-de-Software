@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-KQ4Jzjy6YgAr_2NXa4J67g" name="new_term_definition,_X5rREILYEduLd8CaF_IcMA" guid="-KQ4Jzjy6YgAr_2NXa4J67g" version="1.0.0">
+  <mainDescription>Graphical representation of the remaining work to do for a given period, updated as often as possible.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

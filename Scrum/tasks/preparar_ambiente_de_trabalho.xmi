@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-eQrQ0pifhU68INtEwFvvAQ" name=",_X9XZgHCjEeetYMsQ8VCH7Q" guid="-eQrQ0pifhU68INtEwFvvAQ" changeDate="2017-07-24T16:08:38.501-0300">
+  <mainDescription>Planejar as tarefas e&amp;nbsp;prever os recursos e o ambiente necessários, incluindo, por exemplo, equipamentos, ferramentas,&#xD;
+serviços, componentes, viagens e requisitos de processo (processos especiais para o projeto).&amp;nbsp;Todos os recursos&#xD;
+precisam ser explicitamente planejados, mesmo os já considerados como existentes e disponíveis ou que serão compartilhados&#xD;
+com outros projetos, uma vez que se trata da sua alocação para uso. Caso não haja necessidade de nenhum recurso a ser&#xD;
+adquirido para o projeto deve-se registrar o fato de que a questão foi examinada.</mainDescription>
+  <purpose>Planejar os recursos que serão necessários para o trabalho prosseguir</purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--ACli_wch3c2fJRCWZ8cdQ" name="category_collaboration_points,_xTvFAUSFEdyiFM7u0Ics5g" guid="--ACli_wch3c2fJRCWZ8cdQ" authors="Lyndon Washington" changeDate="2007-08-06T22:32:08.054-0300" changeDescription="Initial copy">
+  <copyrightStatement href="uma://_mQ3eoPpYEdqsc-f87sBK8A#_N8zs0AEGEduzRosbOajx7w"/>
+  <mainDescription>Scrum provides meeting opportunities to communicate about the product, project and process.&amp;nbsp; these collaboration
+        opportunities all share a common theme, they are all timeboxed.&amp;nbsp; For the most part, the meetings try and ensure that
+        the people who will gain the most from the interaction are involved directly.&lt;br /></mainDescription>
+  <keyConsiderations>Since most of the meetings are specified up front, there is usually a concern that there are too many meetings.&amp;nbsp; The
+        meetings have been identified as a way to ensure that communication at specific points in the project lifecycle are carried
+        out with the key participants and with clear goals.&lt;br />
+         &lt;br />
+         Meetings have a clear duration and purpose.&amp;nbsp; A meeting facilitator is responsible for ensuring that the meetings are
+        conducted within the specified amount of time, and also to esnure that the participants remain focused.&lt;br />
+         &lt;br />
+         Participants of a Scrum project should endeavor to collaborate as often as they deem necessary, and not wait for the next
+        predefined interaction to occur.&amp;nbsp; Scrum, and Agile in general, is about opening the avenues of communication between
+        all participants.&lt;br /></keyConsiderations>
+</org.eclipse.epf.uma:ContentDescription>

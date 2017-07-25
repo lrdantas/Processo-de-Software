@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-cfa6bdUgQuboNpJRKaCLAw" name="Scrum referencesl,_PTGe4IRvEduo75chJsIcXg" guid="-cfa6bdUgQuboNpJRKaCLAw" changeDate="2006-12-05T12:45:31.406-0200" version="1.0.0">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Ken Schwaber&amp;nbsp;: &lt;a href=&quot;http://softpro.stores.yahoo.net/0-7356-1993-x.html&quot; target=&quot;_blank&quot;>Agile Project&#xD;
+        Management with Scrum.&lt;/a>&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Mike Cohn&amp;nbsp;: &lt;a&#xD;
+        href=&quot;http://www.amazon.com/exec/obidos/ASIN/0131479415/sr=8-1/qid=1152998855/ref=sr_1_1/402-4433368-7461703?_encoding=UTF8&amp;amp;s=gateway&amp;amp;v=glance&quot;&#xD;
+         target=&quot;_blank&quot;>Agile Estimating and Planning&lt;/a>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

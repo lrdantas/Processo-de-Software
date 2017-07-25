@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nEf5e1YzVzUagWILrDo6mQ" name=",_eHI9kO9wEdu855yM-g7ezw" guid="-nEf5e1YzVzUagWILrDo6mQ" changeDate="2007-04-20T15:55:42.737-0300">
+  <mainDescription>&lt;h3>
+            Overview
+        &lt;/h3>Story points are a measurement employed to indicate the effort required to implement a user story, or product backlog
+        feature. This page will attempt to provide some clarity on the use and definition of Story Points.&lt;br />
+         &lt;br />
+         
+        &lt;h3>
+            What Do They Represent?
+        &lt;/h3>Story points represent some measure of effort that is decided by the team. This maybe days, or weeks, or levels of
+        complexity.&lt;br />
+         &lt;br />
+         
+        &lt;h3>
+            What Are They For?
+        &lt;/h3>Story points provide a way for a &lt;b>team&lt;/b> to &lt;b>jointly&lt;/b> estimate the amount of work that is necessary to
+        implement a feature. They are also used to calculate a teams velocity.&lt;br />
+         &lt;br />
+         
+        &lt;h3>
+            What are they NOT for?
+        &lt;/h3>The estimates of one team, cannot be used by a different team, in an attempt to pass an amount of estimated work to
+        the other team, or in the more common scenario, to compare the velocities of teams. As you will see in the section below,
+        the way estimations are applied is solely by the team after some alignment of thinking. Different teams will estimate
+        features based on their own shared experiences, and that cannot be applied or transferred to different teams.&lt;br />
+         &lt;br />
+         
+        &lt;h3>
+            How does a team assign them?
+        &lt;/h3>During an estimating meeting a customer will read a story. The team will ask questions about the story and receive
+        clarifications or the customers assumptions. Once the team is confident they have all the information that is available,
+        they all come up with an estimate.&lt;br />
+         &lt;br />
+         In the very rare event that all the estimates by the team are the same, then that is the estimate applied to that story,
+        and then they continue with the next story.&lt;br />
+         &lt;br />
+         In the more common situation that there are differences of opinions amongst the team, then the person with the highest
+        estimate explains their reasoning. The person with lowest will then provide their reasons and assumptions why less time or
+        effort is necessary. As this discussion continues, and begins to involve other members of the team, a common understanding
+        of potential work and approaches will allow the team to improve their understanding.&lt;br />
+         &lt;br />
+         At this point the team is asked to once again come up with an estimate for the story. If there are differences, then the
+        discussions continue. If they are aligned then the agreed upon estimate is used for that story. In the situation that out
+        of 5 team members you receive 4, 4, 4, 4, 3, the team member with the 3 would be asked if they would mind settling on the
+        higher estimate.&lt;br />
+         &lt;br />
+         
+        &lt;h3>
+            What are the range of values?
+        &lt;/h3>There are two main types of scales that agilists will use to represent a stories effort estimation. Open linear and a
+        Fibonacci derivative scale. Another idea is t-shirt sizes, which can be employed over the top of numerical values.&lt;br />
+         &lt;br />
+         
+        &lt;h4>
+            Linear
+        &lt;/h4>
+        &lt;ul>
+            &lt;li>
+                Scale: 1..10, or 1..5
+            &lt;/li>
+        &lt;/ul>&lt;br />
+         
+        &lt;h4>
+            Predefined
+        &lt;/h4>
+        &lt;ul>
+            &lt;li>
+                Scale: 0.5, 1, 2, 3, 5, 8, 13, 20, 40, 80
+            &lt;/li>
+        &lt;/ul>&lt;br />
+         
+        &lt;h4>
+            Abstract: T-Shirt Size
+        &lt;/h4>
+        &lt;ul>
+            &lt;li>
+                Scale: XS, S, M, L, XL, XXL
+            &lt;/li>
+        &lt;/ul>&lt;br />
+         The general thought is teams that are estimating small amounts of work will be a lot more accurate and thus meticulous
+        about readjusting the estimates in small increments. For example a team deciding if the estimate should be 1 or 2, it is
+        important to decide if the consensus is 1 day or double and have 2 days. However the larger the amount of work, the less
+        accurate these estimates can really be. So, it would be difficult for a team to decide if a piece of work should be 8 or 9,
+        or for an epic story to be 40 or 41. In those cases it is enough to provide the team with predefined high values that they
+        can use as boundaries for their estimates. In the epic story scenario, haggling over whether it should 40 or 80 seems to be
+        the right level for the amount of work that is being presented.&lt;br />
+         &lt;br />
+         The shirt size idea is a great way to allow the team to express the effort without having to translate it to a numeric
+        value. This will aid a team to move away from expressing effort only in days to complete, but allow them to start thinking
+        in terms of complexity and effort.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-zoJryMCuHfxWP7Q5Er195Q" name="revisao_sprint,_MRrRYPpbEdqsc-f87sBK8A" guid="-zoJryMCuHfxWP7Q5Er195Q" authors="Easy-Tour" changeDate="2017-07-24T22:43:29.300-0300" version="1.0.0">
+  <keyConsiderations>&lt;p>&#xD;
+    Trabalho em equipe (durante a reunião de avaliação da Sprint).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    For the meeting:&#xD;
+&lt;/p>&#xD;
+&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li>&#xD;
+        max length: &amp;nbsp;2 hours&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        average length: 1 hour&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></keyConsiderations>
+  <sections xmi:id="_XL6VgAPLEdubhrgDuRb4fA" name="Prepare the demo" guid="_XL6VgAPLEdubhrgDuRb4fA">
+    <sectionDescription>The meeting preparation must not exceed one hour.&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_ZgJB8APLEdubhrgDuRb4fA" name="Perform the demo" guid="_ZgJB8APLEdubhrgDuRb4fA">
+    <sectionDescription>The team presents the partial product, result of its development tasks, through a demo of the implemented requirements&#xD;
+(user stories). Only fully completed (and tested) requirement implementations (et testées) are presented. This allows to&#xD;
+get an objective measurement of the work progress.&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_cBouUAPLEdubhrgDuRb4fA" name="Evaluate Sprint results" guid="_cBouUAPLEdubhrgDuRb4fA">
+    <sectionDescription>&lt;p>&#xD;
+    The &lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/roles/Product%20Owner_D991557B.html&quot;&#xD;
+    guid=&quot;_ICJyYPpaEdqsc-f87sBK8A&quot;>Product Owner&lt;/a> and attending stakeholders (customers, users) ask questions to the&#xD;
+    team, give impressions, make proposals and change requests. The &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../Scrum/workproducts/Product%20Backlog_DB75BBD.html&quot; guid=&quot;_5ABscPpYEdqsc-f87sBK8A&quot;>Product&#xD;
+    Backlog&lt;/a>&amp;nbsp;is enhanced with found bugs and enhancement requests.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_hrswoHoYEduJVrY6eKG_mw" name="Calculate actual velocity" guid="_hrswoHoYEduJVrY6eKG_mw">
+    <sectionDescription>&lt;p>&#xD;
+    The Sprint &lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/guidances/termdefinitions/Velocity_410B5A1F.html&quot;&#xD;
+    guid=&quot;_HQEP8ILXEduLd8CaF_IcMA&quot;>Velocity&lt;/a> is the sum of all associated points to requirements checked as fully&#xD;
+    implemented. It is then compared to the one from previous sprints, usually through a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../Scrum/guidances/reports/Release%20Burndown%20Chart_C564AEDC.html&quot; guid=&quot;_vKqe8PpaEdqsc-f87sBK8A&quot;>Release&#xD;
+    Burndown Chart&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_d776UHoYEduJVrY6eKG_mw" name="Adjust the Release planning" guid="_d776UHoYEduJVrY6eKG_mw">
+    <sectionDescription>&lt;p>&#xD;
+    Conditions may have changed since the last release planning:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        items may have been added, or deleted, estimations updated,&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        item prioritization has been changed,&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    in addition, average velocity may have evolved.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The &lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/guidances/reports/Release%20Planning_ED85F1BB.html&quot;&#xD;
+    guid=&quot;_Z2NzkIGWEduKE9hnyImx1Q&quot;>Release planning&lt;/a> is adjusted, taking into account these new parameters.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    O objetivo é mostrar os requisitos feitos durante o sprint com uma demonstração do produto parcial.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

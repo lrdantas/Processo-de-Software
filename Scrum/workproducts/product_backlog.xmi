@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Of1SdnAQ9nmsL5DFvD2Uug" name="Product Backlog,_5ABscPpYEdqsc-f87sBK8A" guid="-Of1SdnAQ9nmsL5DFvD2Uug" changeDate="2017-07-24T22:54:29.538-0300" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    A documentação do produto é a referência de requisitos. Contém itens de backlog (também chamados itens de backlog do&#xD;
+    produto).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A sua vida está&amp;nbsp;vinculada à do produto.&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br /></mainDescription>
+  <purpose>Listando todas as coisas a serem implementadas a partir de uma perspectiva do cliente (o que?).</purpose>
+  <impactOfNotHaving>Mandatory</impactOfNotHaving>
+  <briefOutline>&lt;p>&#xD;
+    Visível por todos, é atualizado regularmente. É submetido à revisão do planejamento de sprint e, uma vez aprovado, a&#xD;
+    parte que contém os requisitos alocados para o sprint atual é congelada.&#xD;
+&lt;/p></briefOutline>
+  <representationOptions>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Cards (story cards)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Spreadsheet&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        IceScrum Tool&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Database&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

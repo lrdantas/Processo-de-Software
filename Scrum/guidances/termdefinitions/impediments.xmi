@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-I59yPAKm8IcxVLD_CQBm5g" name=",_VqapgESOEdyDx7cbCULuLg" guid="-I59yPAKm8IcxVLD_CQBm5g" authors="Lyndon Washington" changeDate="2007-08-06T23:33:15.314-0300" changeDescription="Initial revision" version="0.1">
+  <copyrightStatement href="uma://_mQ3eoPpYEdqsc-f87sBK8A#_N8zs0AEGEduzRosbOajx7w"/>
+  <mainDescription>Impediments are any hurdles or problems that the team encounters that hampers their ability to work through their sprint
+        tasks.&amp;nbsp; Impediments are usually removed by the Scrum master.&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-6aCUL_kawJFNBtfH_sRXkw" name="Product increment,_tCmYEP-xEdqLnajTSLeAsA" guid="-6aCUL_kawJFNBtfH_sRXkw" changeDate="2017-07-24T23:30:16.779-0300" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    O resultado principal de um sprint é o produto parcial que implementa, além do que ainda foi implantado no início do&#xD;
+    sprint, os requisitos adicionais desenvolvidos durante este sprint.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    3 usos podem ser feitos - após a demonstração durante a revisão de sprint - do produto parcial obtido no final da&#xD;
+    iteração:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Não é usado fora do time. Foi produzido para minimizar os riscos ligados à tecnologia e capacidade da equipe de&#xD;
+        integrar para produzir uma compilação. Geralmente acontece no início de um novo produto.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        É usado por clientes beta, além do proprietário do produto. Isso lhes permite jogar com ele, o que dá feedback e&#xD;
+        reduz os riscos associados à IU e ergonomia. Os comentários irão alimentar o atraso para consideração posterior.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        É implantado ou enviado e usado por seus usuários finais. Obviamente, o que precisa ser direcionado, uma vez que&#xD;
+        cada versão traz valor. É desejável liberá-lo o mais rápido possível e disponível. Mas geralmente não é possível&#xD;
+        implantar / enviar no final de cada sprint: muito tempo será gasto para passar testes de lançamento em todo o&#xD;
+        sistema, criar e lançar no ambiente de produção, escrever manuais de usuário, preparar e fornecer treinamento aos&#xD;
+        usuários. .. É por isso que este trabalho específico exige muitas vezes uma atividade de preparação para&#xD;
+        implantação. Mas se alguém conseguir executar todas essas tarefas em um tempo limitado, a implantação / envio pode&#xD;
+        ser feita com mais freqüência do que no final dos lançamentos.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    O produto evolui durante o ciclo de vida até o fim da vida.&#xD;
+&lt;/p></keyConsiderations>
+  <briefOutline>&lt;p>&#xD;
+    O produto parcial pode ser implantado no ambiente de produção ou simplesmente disponibilizado aos usuários.&#xD;
+&lt;/p></briefOutline>
+</org.eclipse.epf.uma:ArtifactDescription>

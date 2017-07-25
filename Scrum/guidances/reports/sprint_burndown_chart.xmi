@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qVeT6_sAspmZjCYQLOrhbg" name="Sprint Burndown Chart,_jC4NwPpaEdqsc-f87sBK8A" guid="-qVeT6_sAspmZjCYQLOrhbg" changeDate="2006-12-03T12:17:51.046-0200" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    It's a &lt;a class=&quot;elementLink&quot; href=&quot;./../../../Scrum/guidances/termdefinitions/Burndown%20Chart_F0B781FC.html&quot;&#xD;
+    guid=&quot;_X5rREILYEduLd8CaF_IcMA&quot;>Burndown Chart&lt;/a>&amp;nbsp;for a given sprint :&amp;nbsp;shows tendency of sprint progress with&#xD;
+    a graphical representation of the remaining work to do at the end of each passed day.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

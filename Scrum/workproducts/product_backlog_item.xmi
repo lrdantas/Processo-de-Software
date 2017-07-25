@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-KC1R73i9f6P7ZT4pgBOLzA" name="product_backlog_item,_-D85cIGIEduKE9hnyImx1Q" guid="-KC1R73i9f6P7ZT4pgBOLzA" changeDate="2007-08-17T13:52:25.198-0300" version="1.0.0">
+  <mainDescription>It's either a functional or technical requirement, an enhancement request, a bug or anything else which implementation&#xD;
+brings up value to the &lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/roles/Product%20Owner_D991557B.html&quot;&#xD;
+guid=&quot;_ICJyYPpaEdqsc-f87sBK8A&quot;>Product Owner&lt;/a>.&amp;nbsp; &#xD;
+&lt;p>&#xD;
+    Its general attributes are:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        estimated value, most oftenly calculated relatively to other items through priorities,&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        estimated development cost,&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        eventually the theme (functional domain) it belongs to,&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        eventually its type (defined by the project, user story, for instance, bug, non-funcitonal requirement),&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    If the user story technique is used, as well as test-driven development, test acceptance criterias are associated.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A PBI goes through the following states:&#xD;
+&lt;/p>&#xD;
+&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li>&#xD;
+        created&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        estimated&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        planned (associated to a future sprint)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        associated to current sprint (implementation is ongoing)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        done&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;list-style: none&quot;>&#xD;
+        &lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  <keyConsiderations>Scrum principle is to complete a PBI within a sprint.</keyConsiderations>
+  <purpose>Serves project management: Will be placed in a sprint</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

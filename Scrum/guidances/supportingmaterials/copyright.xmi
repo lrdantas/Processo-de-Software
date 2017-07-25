@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-03XtfjRMEs23qIdCSSQiNQ" name="new_supporting_material,_N8zs0AEGEduzRosbOajx7w" guid="-03XtfjRMEs23qIdCSSQiNQ" changeDate="2007-02-03T17:40:46.906-0200" version="1.0.0">
+  <mainDescription>This program and its materials are provided under the terms of the &quot;&lt;a&#xD;
+href=&quot;http://www.eclipse.org/org/documents/epl-v10.php&quot; target=&quot;_blank&quot;>Eclipse Public License v1.0&lt;/a>&quot; license.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

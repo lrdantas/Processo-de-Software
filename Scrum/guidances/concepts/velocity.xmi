@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Juyx9-ueXCZ9LpMR7tYkHw" name="new_concept,_OLI-cO9xEdu855yM-g7ezw" guid="-Juyx9-ueXCZ9LpMR7tYkHw" changeDate="2007-04-20T16:00:42.434-0300">
+  <mainDescription>&lt;h3>
+            Overview
+        &lt;/h3>An agile team is able to declare some level of capacity for doing work each iteration. This capacity is used when the
+        team goes to a planning session and elects to take on work. The hope is that they only take on what is achievable by the
+        team. This metric that provides this determination is called the team velocity.&lt;br />
+         &lt;br />
+         
+        &lt;h3>
+            How Is It Calculated?
+        &lt;/h3>The velocity is based on the amount of completed features from past, or historic, sprints. Each feature that is
+        accepted into a sprint has gone through some level of team estimation. That estimation is stipulated with &lt;a
+        class=&quot;elementLinkWithUserText&quot; href=&quot;./../../../ISM-Scrum/guidances/termdefinitions/story_point_def_B4631389.html&quot;
+        guid=&quot;_ZoVtE0SNEdyDx7cbCULuLg&quot;>Story points&lt;/a>. 
+        &lt;p>
+            It will take 2-3 iterations before a team can get a somewhat accurate velocity determination. Though as teams go from
+            iteration to iteration, it is worth noting for observers changes in practices, or maturation in estimation that will
+            lead to the refinement of their velocity.
+        &lt;/p>&lt;br />
+         
+        &lt;h3>
+            What Does It Measure?
+        &lt;/h3>As stated in the overview, the velocity metric measures a particular teams capability to work through stories that
+        they have estimated. An example is for a team that for the last 3 sprints has got to a point of producing 20 story points
+        worth of features every sprint. That velocity is only useful when the team performs estimates on future features, so that
+        they know how much of that work they can pull into a sprint. It is also useful to the product owner to aid in their
+        assessment of the remaining work that has been identified for a release.&lt;br />
+         &lt;br />
+         
+        &lt;h3>
+            How Is It Used?
+        &lt;/h3>Velocity is used as a way to measure a teams output of sustainable effort. It will be used by the team at planning
+        sessions as a &lt;em>tide&lt;/em> mark to ensure they do not take on more work than they can actually perform. It can also be
+        used by the team and interested parties to indicate any improvements in the teams performance, or declines in a teams
+        performance. In this respect, it should be used as a team management aid to help warn or confirm the changes in working
+        practices for a team during a sprint. 
+        &lt;p>
+            An example might be that a team takes on some process changes. By reviewing the teams velocity after these changes, it
+            will be one of many indicators to help the team understand the impact that the change has caused.
+        &lt;/p>&lt;br />
+         
+        &lt;h3>
+            Can Team Velocities Be Compared?
+        &lt;/h3>Since each team will estimate work in slightly different ways, based on their own working experiences and knowledge,
+        the estimates that they create for new features are only &lt;em>accurate&lt;/em> for that team. Thus, relying on estimates that
+        the team did not actually make, will not be a true measure of how much work they can take on based on their
+        &lt;strong>own&lt;/strong> experiences. 
+        &lt;p>
+            In short, velocities cannot be used as a way to compare teams.&lt;br />
+        &lt;/p>
+        &lt;p>
+            &lt;br />
+        &lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

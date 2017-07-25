@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8V2DOvzUhvtqwWvTOHMB5g" name="Sprint backlog,_Dzw70PpZEdqsc-f87sBK8A" guid="-8V2DOvzUhvtqwWvTOHMB5g" changeDate="2017-07-24T23:33:43.329-0300" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    Ele contém a lista de tarefas que a equipe tem responsabilidade sobre a fim de completar os itens do Product Backlog&#xD;
+    selecionados para este sprint.&lt;br />&#xD;
+    A equipe pode modificar uma tarefa, removê-la ou adicionar novas: é usual que as tarefas apareçam durante um sprint.&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+    Ele descreve todas as tarefas de um sprint, com recursos atribuídos e o trabalho restante a ser feito. É um&#xD;
+    planejamento fino em tarefas detalhadas.&#xD;
+&lt;/p></purpose>
+  <impactOfNotHaving>Mandatory</impactOfNotHaving>
+  <briefOutline>&lt;p>&#xD;
+    É uma ferramenta de comunicação essencial que ajuda o gerenciamento de sprint. Deve ser facilmente atualizável e sempre&#xD;
+    disponível para a equipe.&#xD;
+&lt;/p></briefOutline>
+</org.eclipse.epf.uma:ArtifactDescription>

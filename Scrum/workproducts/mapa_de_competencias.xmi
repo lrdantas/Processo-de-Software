@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nBnaRmdHBhoIV4cGcoLfuA" name="new_artifact,_5eJTcHChEeetYMsQ8VCH7Q" guid="-nBnaRmdHBhoIV4cGcoLfuA" changeDate="2017-07-24T16:00:50.281-0300">
+  <mainDescription>O documento deve conter as competencias atuais e a cada nova competencia adquirida por um membro da equipe, esse documento&#xD;
+deve ser atualizado, mas mantendo o historico das habilidades já adquiridas.</mainDescription>
+  <purpose>Gerar um documento que lista as competencias dos integrantes</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mi1O4H7RRm0YqlUNyp8TJg" name="iniciar_product_backlog,_BGFMoANkEduYd-55D-Aiqg" guid="-mi1O4H7RRm0YqlUNyp8TJg" changeDate="2017-07-24T23:50:25.869-0300" version="1.0.0">
+  <keyConsiderations>&lt;p>&#xD;
+    O backlog inicial deve ajudar a planejar pelo menos os 2 ou 3 primeiros sprints.&#xD;
+&lt;/p></keyConsiderations>
+  <sections xmi:id="_pWL_gAPJEdubhrgDuRb4fA" name="Collecting the backlog items" guid="_pWL_gAPJEdubhrgDuRb4fA">
+    <sectionDescription>&lt;p>&#xD;
+    The &lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/roles/Product%20Owner_D991557B.html&quot;&#xD;
+    guid=&quot;_ICJyYPpaEdqsc-f87sBK8A&quot;>Product Owner&lt;/a>&amp;nbsp;establishes a first list of requirements (a requirement becomes a&#xD;
+    &lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/workproducts/Product%20Backlog%20Item_C561C125.html&quot;&#xD;
+    guid=&quot;_-D85cIGIEduKE9hnyImx1Q&quot;>Product Backlog Item&lt;/a>)&amp;nbsp;he wish to be implemented for the end of the release.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    To complere this list and obtain a sufficient backlog, it is better to organize a workshop including the whole team&#xD;
+    plus stakeholders. During this workshop, the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../Scrum/roles/Product%20Owner_D991557B.html&quot; guid=&quot;_ICJyYPpaEdqsc-f87sBK8A&quot;>Product&#xD;
+    Owner&lt;/a>&amp;nbsp;introduces his backlog draft and each one may suggest additional items.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It is frequent a backlog item be identified as a User story, technique coming from EXtreme Programming (XP) et fitting&#xD;
+    very well to the Scrum pattern.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_u0Z7sAPJEdubhrgDuRb4fA" name="Backlog Prioritizing" guid="_u0Z7sAPJEdubhrgDuRb4fA">
+    <sectionDescription>&lt;p>&#xD;
+    The &lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/roles/Product%20Owner_D991557B.html&quot;&#xD;
+    guid=&quot;_ICJyYPpaEdqsc-f87sBK8A&quot;>Product Owner&lt;/a>&amp;nbsp;prioritizes backlog items by decreasing priorities. To him, A&#xD;
+    more important than B means he wants A to be implemented before B across the series of partial products.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    wjem a backlog contains a lot of items, the prioritization of each of them is fastidious and subtil. That's why it is&#xD;
+    useful to define &lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/guidances/termdefinitions/Theme_E39DA34D.html&quot;&#xD;
+    guid=&quot;_aeYKoIKlEduQgtHqedKdMA&quot;>Theme&lt;/a>s, associate one to each item and prioritize themes before getting to item&#xD;
+    prioritization. This can be done during a meeting with team members and stakeholders.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>O objetivo é produzir um backlog grande o suficiente para permitir o arranque da série de sprints.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-NRwwk6YGAtu25V3Lc04G6w" name="Plan sprint,_4LOggPpaEdqsc-f87sBK8A" guid="-NRwwk6YGAtu25V3Lc04G6w" authors="Easy-Tour" changeDate="2017-07-24T22:50:34.989-0300" version="1.0.0">
+  <keyConsiderations>&lt;p>&#xD;
+    A reunião de planejamento de sprint é um trabalho em grupo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It is limited in time:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        max. length: up to 4 hours&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        avg length: 2 hours&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></keyConsiderations>
+  <sections xmi:id="_TJNsUP--Edqtbrr0B1TG-A" name="Defining the sprint's goal" guid="_TJNsUP--Edqtbrr0B1TG-A">
+    <sectionDescription>&lt;p>&#xD;
+    At the beginning of the first sprints of the first release of a product, the goal is usually to show the feasability on&#xD;
+    the potential architecture.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Then, once the architecture is validated, the goal of a sprint is proposed by the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../Scrum/roles/Product%20Owner_D991557B.html&quot; guid=&quot;_ICJyYPpaEdqsc-f87sBK8A&quot;>Product Owner&lt;/a> and discussed&#xD;
+    with the team. It oftenly focuses on a given functional theme.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_xvy5UAPKEdubhrgDuRb4fA" name="Selecting the items" guid="_xvy5UAPKEdubhrgDuRb4fA">
+    <sectionDescription>&lt;p>&#xD;
+    It is about defining the scope of this sprint. This is done by associating &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../Scrum/workproducts/Product%20Backlog%20Item_C561C125.html&quot; guid=&quot;_-D85cIGIEduKE9hnyImx1Q&quot;>Product Backlog&#xD;
+    Item&lt;/a>s one by one &amp;nbsp;to the sprint, and balancing with the team velocity.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    If a &lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/guidances/reports/Release%20Planning_ED85F1BB.html&quot;&#xD;
+    guid=&quot;_Z2NzkIGWEduKE9hnyImx1Q&quot;>Release planning&lt;/a>&amp;nbsp;has been done, this step is only about collectively validating&#xD;
+    the forecasted backlog subset for the sprint.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_p4C0sP--Edqtbrr0B1TG-A" name="Identifying tasks from items" guid="_p4C0sP--Edqtbrr0B1TG-A">
+    <sectionDescription>&lt;p>&#xD;
+    The 2nd part of the meeting is about defining how the team is gonna achieve the sprint objectives.&lt;br />&#xD;
+     To do that, each selected &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../Scrum/workproducts/Product%20Backlog%20Item_C561C125.html&quot; guid=&quot;_-D85cIGIEduKE9hnyImx1Q&quot;>Product Backlog&#xD;
+    Item&lt;/a>&amp;nbsp;is decomposed into tasks. This enables the team to discuss and figure solutions aspects towards this&#xD;
+    item, asking the procut owner, if necessary, precisions on the product behavior.&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Normaly, all the lifecycle activities are rolled out during a sprint:&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Selected requirements are specified&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Architecture is modified if necessary&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Classes and subsystems are designed, implemented and tested&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The different components are integrated and tested&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Product is packaged&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Acceptance tests are passed.&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The given importance to these activities depends on the position of the sprint within the release.&lt;br />&#xD;
+    &lt;br />&#xD;
+     The planned work in a previous sprint that couldn't be done because of objectives reduction, becomes the priority for&#xD;
+    next sprint.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_DxNQUAPLEdubhrgDuRb4fA" name="Estimating tasks" guid="_DxNQUAPLEdubhrgDuRb4fA">
+    <sectionDescription>&lt;p>&#xD;
+    Tasks are estimated in hours. Tasks should be thin enough to take less than 16 hours.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Estimation is collectively made by the team. During this discussion, technical aspects are reviewed.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_worbAP--Edqtbrr0B1TG-A" name="Assigning tasks" guid="_worbAP--Edqtbrr0B1TG-A">
+    <sectionDescription>Once sprint activities are defined, they will be assigned to team members. Activities can be done by one or many persons.&#xD;
+All the activities must be taken in to account, including work meetings (non Scrum meetings as well), code or document&#xD;
+reviews.&lt;br />&#xD;
+ It is preferable to delay assignement of certain activities, which will be assigned during the sprint in accordance with&#xD;
+team members availability.</sectionDescription>
+  </sections>
+  <sections xmi:id="_Iq14wAPLEdubhrgDuRb4fA" name="Getting team commitment" guid="_Iq14wAPLEdubhrgDuRb4fA">
+    <sectionDescription>&lt;p>&#xD;
+    Team should collectively commit to the sprint backlog, that is on backlog items it estimates being able to implement&#xD;
+    within the sprint.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>O objetivo é planejar o sprint inicial.</purpose>
+</org.eclipse.epf.uma:TaskDescription>
