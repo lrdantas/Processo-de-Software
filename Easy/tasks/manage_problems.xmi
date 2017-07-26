@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mZfAV7RcWJlp5idlHzeEcA" name="Manage problems,_Xpd5gP_AEdqtbrr0B1TG-A" guid="-mZfAV7RcWJlp5idlHzeEcA" authors="Easy-Tour" changeDate="2017-07-24T22:47:39.671-0300" version="1.0.0">
+  <keyConsiderations>&lt;p>&#xD;
+    Esta tarefa está focada na resolução de problemas.&#xD;
+&lt;/p></keyConsiderations>
+  <sections xmi:id="_LCxqQAB6EduSVaTQTBfIHA" name="Esteja ciente do problema" guid="_LCxqQAB6EduSVaTQTBfIHA">
+    <sectionDescription>&lt;p>&#xD;
+    &lt;span lang=&quot;pt&quot;>A reunião diária é o momento ideal para detectar problemas com os quais uma equipe está lutando. Pode&#xD;
+    até permitir resolver imediatamente através da colaboração em equipe. Contudo:&lt;/span>&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Problemas urgentes podem aparecer entre 2 daily scrums&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        A&amp;nbsp;resolução de problemas não é realizada durante a reunião (a menos que a solução seja trivial)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_PIKyUAB6EduSVaTQTBfIHA" name="Tomando decisões sobre o plano de ação" guid="_PIKyUAB6EduSVaTQTBfIHA">
+    <sectionDescription>&lt;p>&#xD;
+    &lt;span lang=&quot;pt&quot; id=&quot;result_box&quot;>&lt;span>Identificando possíveis soluções.&lt;/span>&lt;br />&#xD;
+    &lt;span>Uma reunião com gerentes é agendada se problemas com o projeto não puderem ser resolvidos facilmente ou precisar&#xD;
+    de uma decisão de gerenciamento.&lt;/span>&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;span lang=&quot;pt&quot; id=&quot;result_box&quot;>&lt;span>O&amp;nbsp; &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../Scrum/roles/product_owner_D991557B.html&quot; guid=&quot;_ICJyYPpaEdqsc-f87sBK8A&quot;>Product Owner&lt;/a>&amp;nbsp;deve&#xD;
+    tentar resolver problemas o mais rápido possível, para não perturbar o progresso da equipe.&lt;/span>&lt;/span>&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    O objetivo é eliminar os problemas experimentados pela equipe para que ele possa se concentrar em seus objetivos reais.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

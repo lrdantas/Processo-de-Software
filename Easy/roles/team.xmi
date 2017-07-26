@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-LVZG5zK2YjEGXO3SwDmqug" name="Team,_9apLsPpaEdqsc-f87sBK8A" guid="-LVZG5zK2YjEGXO3SwDmqug" authors="Easy-Tour" changeDate="2017-07-25T22:28:34.212-0300" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    Uma equipe reúne membros, que como um todo, é capaz de realizar todas as várias tarefas para as quais ele assume&#xD;
+    coletivamente a responsabilidade durante cada sprint.&lt;br />&#xD;
+     É capaz de determinar o que precisa ser feito para alcançar o objetivo de sprint. Ele é organizado de forma autônoma e&#xD;
+    planeja suas próprias tarefas, sem interferência externa.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    Através de uma abordagem centrada na coletividade, a agilidade contribui para melhorar a comunidade dentro da equipe.&#xD;
+&lt;/p></keyConsiderations>
+  <skills>&lt;p>&#xD;
+    A equipe deve ser capaz de executar todas as várias tarefas para as quais ela se responsabiliza coletivamente durante o&#xD;
+    planejamento de sprint. Isso significa que ele deve ser multifuncional para cobrir análise, design, codificação, teste&#xD;
+    e outras tarefas.&#xD;
+&lt;/p></skills>
+  <assignmentApproaches>Um&amp;nbsp;Easy team é geralmente feito de 3 a&amp;nbsp;6 membros.</assignmentApproaches>
+</org.eclipse.epf.uma:RoleDescription>

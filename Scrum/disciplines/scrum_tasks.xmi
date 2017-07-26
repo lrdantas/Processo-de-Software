@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-4wqJQ0qXLYZ8kCnpDu--tA" name="scrum_tasks,_6sdMAAL-EduOAKqB9I73uw" guid="-4wqJQ0qXLYZ8kCnpDu--tA" changeDate="2017-07-24T23:35:57.140-0300" version="1.0.0">
-  <mainDescription>&lt;p>&#xD;
-    O Scrum pode essencialmente ser aplicado ao gerenciamento de projetos e requisitos.&#xD;
-&lt;/p></mainDescription>
-  <keyConsiderations>&lt;p>&#xD;
-    Uma boa parte dessas tarefas é feita coletivamente, como uma equipe.&#xD;
-&lt;/p></keyConsiderations>
-</org.eclipse.epf.uma:ContentDescription>

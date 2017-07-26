@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-vDOuVl_xPKipKd90HQNZng" name="realizar_encontro_diario_scrum,_d09LYP_AEdqtbrr0B1TG-A" guid="-vDOuVl_xPKipKd90HQNZng" changeDate="2017-07-25T21:32:30.212-0300" version="1.0.0">
+  <keyConsiderations>&lt;p>&#xD;
+    O objetivo é se concentrar no progresso do time e identificar problemas.&amp;nbsp;A finalidade&amp;nbsp;é apenas examinar o&#xD;
+    progresso do trabalho, não para resolver problemas.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Este encontro dura em média 15 minutos.&amp;nbsp;&#xD;
+&lt;/p></keyConsiderations>
+  <sections xmi:id="_oUrlcBGOEduHloEV5-Zv-w" name="Preparing" guid="_oUrlcBGOEduHloEV5-Zv-w">
+    <sectionDescription>&lt;span lang=&quot;pt&quot; id=&quot;result_box&quot;>&lt;span>Todos atualizam o planejamento (o backlog deste sprint) atualizando o trabalho&#xD;
+restante em cada uma das tarefas, o que leva a um&lt;/span>&lt;/span>&lt;span role=&quot;button&quot; aria-hidden=&quot;true&quot; id=&quot;t-served-community-button&quot; class=&quot;trans-verified-button goog-toolbar-button&quot; style=&quot;DISPLAY: none; -ms-user-select: none&quot;>&lt;/span> &lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/guidances/reports/sprint_burndown_chart_C6600C07.html&quot; guid=&quot;_jC4NwPpaEdqsc-f87sBK8A&quot;>Sprint Burndown Chart&lt;/a>.</sectionDescription>
+  </sections>
+  <sections xmi:id="_r0KkEBGOEduHloEV5-Zv-w" name="Gathering all together" guid="_r0KkEBGOEduHloEV5-Zv-w">
+    <sectionDescription>&lt;p>&#xD;
+    &lt;span lang=&quot;pt&quot; id=&quot;result_box&quot;>&lt;span>Cada membro da equipe se expressa um após um, respondendo a 3 perguntas&#xD;
+    sobre:&lt;/span>&lt;/span>&lt;span role=&quot;button&quot; aria-hidden=&quot;true&quot; id=&quot;t-served-community-button&quot;     class=&quot;trans-verified-button goog-toolbar-button&quot; style=&quot;DISPLAY: none; -ms-user-select: none&quot;>&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;span lang=&quot;pt&quot; id=&quot;result_box&quot; class=&quot;short_text&quot;>&lt;span>O que foi feito desde o anterior&lt;/span>&lt;/span>&lt;span         role=&quot;button&quot; aria-hidden=&quot;true&quot; id=&quot;t-served-community-button&quot; class=&quot;trans-verified-button goog-toolbar-button&quot;         style=&quot;DISPLAY: none; -ms-user-select: none&quot;>&lt;/span> daily scrum&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        O que foi feito hoje&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Problemas experimentados&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;p>&#xD;
+    &lt;span lang=&quot;pt&quot; id=&quot;result_box&quot;>&lt;span>Esta reunião deve ocorrer com todos os membros da equipe em pé em um círculo,&#xD;
+    com&lt;/span>&lt;/span> &lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/workproducts/sprint_backlog_AEF9CB4A.html&quot; guid=&quot;_Dzw70PpZEdqsc-f87sBK8A&quot;>Sprint Backlog&lt;/a> e atualizado o &lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/guidances/reports/sprint_burndown_chart_C6600C07.html&quot; guid=&quot;_jC4NwPpaEdqsc-f87sBK8A&quot;>Sprint Burndown Chart&lt;/a> &lt;span lang=&quot;pt&quot; id=&quot;result_box&quot; class=&quot;short_text&quot;>&lt;span>Diante de seus olhos&lt;/span>&lt;/span>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_vZkkgBGOEduHloEV5-Zv-w" name="Consolider" guid="_vZkkgBGOEduHloEV5-Zv-w">
+    <sectionDescription>&lt;p>&#xD;
+    A atualização do&amp;nbsp;&lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/workproducts/sprint_backlog_AEF9CB4A.html&quot; guid=&quot;_Dzw70PpZEdqsc-f87sBK8A&quot;>Sprint Backlog&lt;/a> ajuda a tomar uma decisão sobre como regular o objetivo do Sprint.&#xD;
+    Deve ter em mente que um sprint é limitado no tempo (timebox) e que é preferível remover o conteúdo inicialmente&#xD;
+    previsto, em vez de haver atrasos.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;span>Os problemas apresentados são resolvidos durante os&lt;/span> &lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/tasks/manage_problems_3EEA5FD9.html&quot; guid=&quot;_Xpd5gP_AEdqtbrr0B1TG-A&quot;>Manage problems&lt;/a>&amp;nbsp;iniciado pelo &lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/roles/team_1D060AFC.html&quot; guid=&quot;_9apLsPpaEdqsc-f87sBK8A&quot;>Scrum Team&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>O objetivo é examinar o progresso do trabalho e identificar possíveis problemas, mas não resolver problemas.</purpose>
+  <alternatives>&lt;p>&#xD;
+    Também chamado de Stand-Up Meeting (XP), Daily Stand-Up&#xD;
+&lt;/p></alternatives>
+</org.eclipse.epf.uma:TaskDescription>

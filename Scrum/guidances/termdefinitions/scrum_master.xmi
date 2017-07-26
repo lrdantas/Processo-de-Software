@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-XGxAjKSP2L1vHDRJyDB8fg" name=",_4G094ESPEdyDx7cbCULuLg" guid="-XGxAjKSP2L1vHDRJyDB8fg" authors="Lyndon Washington" changeDate="2007-08-06T23:45:21.303-0300" changeDescription="Initial revision" version="0.1">
-  <copyrightStatement href="uma://_mQ3eoPpYEdqsc-f87sBK8A#_N8zs0AEGEduzRosbOajx7w"/>
-  <mainDescription>The ScrumMaster is the person who ensures that the process is followed by all roles.&amp;nbsp; This role is a facilitator,
-        coach, mentor for the roles involved in the process.&lt;br /></mainDescription>
-</org.eclipse.epf.uma:ContentDescription>

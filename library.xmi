@@ -31,7 +31,7 @@
     <subManagers xmi:id="_ezIJLdVpEdqWcvghdb0qxA" guid="_ezIJLdVpEdqWcvghdb0qxA"/>
     <subManagers xmi:id="_Y9KDYHBzEeeiPKYM9YuPKA" href="uma://_mQ3eoPpYEdqsc-f87sBK8A#_Y9KDYHBzEeeiPKYM9YuPKA"/>
     <resourceDescriptors xmi:id="_mtiFgPL5Edm6Nvont3uinw" id="_y62TUKVPEdmMZJIzZ1W7Pw" uri=""/>
-    <resourceDescriptors xmi:id="_Y9KDYXBzEeeiPKYM9YuPKA" id="_mQ3eoPpYEdqsc-f87sBK8A" uri="Scrum/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_Y9KDYXBzEeeiPKYM9YuPKA" id="_mQ3eoPpYEdqsc-f87sBK8A" uri="Easy/plugin.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodLibrary xmi:id="_y62TUKVPEdmMZJIzZ1W7Pw" name="library.xmi" guid="_y62TUKVPEdmMZJIzZ1W7Pw">
     <methodPlugins xmi:id="_mQ3eoPpYEdqsc-f87sBK8A" href="uma://_mQ3eoPpYEdqsc-f87sBK8A#_mQ3eoPpYEdqsc-f87sBK8A"/>

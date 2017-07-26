@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-2rgHHsLdX24I3y2ZiTUkkw" name=",_r1YCkHCfEeetYMsQ8VCH7Q" guid="-2rgHHsLdX24I3y2ZiTUkkw" authors="Easy Tour" changeDate="2017-07-25T22:34:24.207-0300">
+  <mainDescription>Para as organizações do tipo Fábrica de Software, além dos riscos oriundos do próprio projeto, devem ser levados em&#xD;
+consideração os riscos advindos da contratante, como, por exemplo, a não entrega das especificações na data planejada ou&#xD;
+até mesmo a entrega de especificações em qualidade inferior ao necessário para o início da codificação.</mainDescription>
+  <purpose>Fazer o acompanhamento dos riscos do projeto devem ser registrados e ações devem ser tomadas.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

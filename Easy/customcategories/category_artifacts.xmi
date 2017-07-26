@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ViT5-mwkNqQP_VFaDwNqQQ" name="category_artifacts,_xTvFAESFEdyiFM7u0Ics5g" guid="-ViT5-mwkNqQP_VFaDwNqQQ" authors="Easy Tour" changeDate="2017-07-25T14:26:30.596-0300" version="1.0">
+  <mainDescription>&lt;span lang=&quot;pt&quot; id=&quot;result_box&quot;>&lt;span>Dentro do Easy, existem três artefatos principais que são usados pelas funções para&#xD;
+transmitir informações sobre o produto que está sendo construído, as tarefas que são necessárias para criar os recursos&#xD;
+especificados e os incrementos de funcionalidade.&lt;/span>&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;span>Esclarecendo claramente quais são esses artefatos de base e os proprietários dos artefatos estabelecerão uma&#xD;
+compreensão dos papéis e suas responsabilidades no processo de gerenciamento do produto, projeto e&#xD;
+processo.&lt;/span>&lt;/span>&lt;br /></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    &lt;span lang=&quot;pt&quot; id=&quot;result_box&quot;>&lt;span>A lista de artefatos não é exaustiva, mas representa os componentes-chave para um&#xD;
+    processo Easy.&lt;/span>&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
+</org.eclipse.epf.uma:ContentDescription>

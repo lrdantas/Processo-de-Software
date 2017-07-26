@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-dU_t9olFRQIyOBZQvMndKg" name="new_concept,_OUjj0AEZEduzRosbOajx7w" guid="-dU_t9olFRQIyOBZQvMndKg" changeDate="2017-07-25T21:45:26.110-0300" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    Teaming grows up through meetings. Scrum introduces 5 types of meetings:&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot; href=&quot;./../../../Scrum/tasks/plan_sprint_122255F4.html&quot;&#xD;
+        guid=&quot;_4LOggPpaEdqsc-f87sBK8A&quot;>Sprint Planning&lt;/a>&amp;nbsp;(1st part, definition of a backlog subset)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot; href=&quot;./../../../Scrum/tasks/plan_sprint_122255F4.html&quot;&#xD;
+        guid=&quot;_4LOggPpaEdqsc-f87sBK8A&quot;>Sprint Planning&lt;/a> (2nd part, sprint planning)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot; href=&quot;./../../../Scrum/tasks/realizar_encontro_diario_scrum_391727BD.html&quot;&#xD;
+        guid=&quot;_d09LYP_AEdqtbrr0B1TG-A&quot;>Daily Scrum&lt;/a>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot; href=&quot;./../../../Scrum/tasks/revisao_sprint_E6CEA738.html&quot;&#xD;
+        guid=&quot;_MRrRYPpbEdqsc-f87sBK8A&quot;>Revisao da Sprint&lt;/a>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot; href=&quot;./../../../Scrum/tasks/realizar_retrospectiva_E3220062.html&quot;&#xD;
+        guid=&quot;_J_sRIP_AEdqtbrr0B1TG-A&quot;>Retrospectiva da Sprint&lt;/a>&lt;br />&#xD;
+        &lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

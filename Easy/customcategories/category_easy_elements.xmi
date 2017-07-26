@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WeMVeufCr8WVt0dtENtm-Q" name="category_easy_elements,_fZHeY0zcEdyHWMosG5iTJw" guid="-WeMVeufCr8WVt0dtENtm-Q" authors="Easy-Tour" changeDate="2017-07-25T22:50:07.375-0300" changeDescription="Initial revision&#x9;" version="0.1">
+  <mainDescription>Easy&amp;nbsp;é identificado pelos três elementos.&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;span style=&quot;FONT-WEIGHT: bold&quot;>Papéis&lt;/span>&amp;nbsp;ou quem&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;span style=&quot;FONT-WEIGHT: bold&quot;>Artefatos&lt;/span>&amp;nbsp;ou o que&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;span style=&quot;FONT-WEIGHT: bold&quot;>Pontos de colaboração&amp;nbsp;&lt;/span>ou como&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;br />&#xD;
+&lt;span style=&quot;FONT-WEIGHT: bold&quot;>Who&lt;/span>:&lt;br />&#xD;
+The roles that are involved in the process.&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;span style=&quot;FONT-WEIGHT: bold&quot;>What&lt;/span>:&lt;br />&#xD;
+The artifacts that the roles use to record project information.&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;span style=&quot;FONT-WEIGHT: bold&quot;>How&lt;/span>:&lt;br />&#xD;
+The ways that the roles collaborate and communicate.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

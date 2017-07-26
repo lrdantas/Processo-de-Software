@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-u0-b4PNo9XzOh1-dv_aaKA" name="StakeHolder,_Qqmp8P_AEdqtbrr0B1TG-A" guid="-u0-b4PNo9XzOh1-dv_aaKA" authors="Easy-Tour" changeDate="2017-07-25T22:31:12.181-0300" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    Um stakeholder não é um membro da equipe, mas está interessado no produto desenvolvido. Ele pode influenciar o&#xD;
+    lançamento do projeto. Ele participa das reuniões do Easy: veja a contribuição para o &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../Easy/guidances/concepts/collaborative_work_8AECB83B.html&quot; guid=&quot;_OUjj0AEZEduzRosbOajx7w&quot;>Collaborative&#xD;
+    work&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;br /></mainDescription>
+  <synonyms>&lt;p>&#xD;
+    Parceiro interessado&#xD;
+&lt;/p></synonyms>
+</org.eclipse.epf.uma:RoleDescription>

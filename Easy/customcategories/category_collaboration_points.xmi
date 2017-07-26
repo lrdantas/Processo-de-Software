@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--ACli_wch3c2fJRCWZ8cdQ" name="category_collaboration_points,_xTvFAUSFEdyiFM7u0Ics5g" guid="--ACli_wch3c2fJRCWZ8cdQ" authors="Easy Tour" changeDate="2017-07-25T14:29:47.408-0300">
+  <mainDescription>&lt;span lang=&quot;pt&quot; id=&quot;result_box&quot;>&lt;span>O Easy oferece oportunidades de reunião para se comunicar sobre o produto, o projeto&#xD;
+e o processo. Essas oportunidades de colaboração compartilham um tema comum, elas são todas horárias.&lt;/span> &lt;span>Para a&#xD;
+maior parte, as reuniões tentam e garantem que as pessoas que ganhem o máximo com a interação estão diretamente&#xD;
+envolvidas.&lt;/span>&lt;/span></mainDescription>
+  <keyConsiderations>&lt;span lang=&quot;pt&quot; id=&quot;result_box&quot;>&lt;span>Como a maioria das reuniões são especificadas na frente, geralmente há uma&#xD;
+preocupação de que há muitas reuniões.&lt;/span> &lt;span>As reuniões foram identificadas como uma forma de garantir que a&#xD;
+comunicação em pontos específicos no ciclo de vida do projeto seja realizada com os principais participantes e com&#xD;
+objetivos claros.&lt;/span>&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;span>As reuniões têm uma duração e um propósito claros.&lt;/span> &lt;span>Um facilitador de reunião é responsável por assegurar&#xD;
+que as reuniões sejam realizadas dentro do prazo especificado, e também para garantir que os participantes permaneçam&#xD;
+focados.&lt;/span>&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;span>Os participantes de um projeto Scrum devem se esforçar para colaborar com a frequência que julgar necessário, e não&#xD;
+esperar a próxima interação predefinida ocorrer.&lt;/span> &lt;span>Scrum e Agile em geral, é sobre abrir as avenidas de&#xD;
+comunicação entre todos os participantes.&lt;/span>&lt;/span>&lt;span role=&quot;button&quot; aria-hidden=&quot;true&quot;&#xD;
+id=&quot;t-served-community-button&quot; class=&quot;trans-verified-button goog-toolbar-button&quot;&#xD;
+style=&quot;DISPLAY: none; -ms-user-select: none&quot;>&lt;/span></keyConsiderations>
+</org.eclipse.epf.uma:ContentDescription>
