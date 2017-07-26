@@ -3,7 +3,7 @@
   <keyConsiderations>&lt;p>&#xD;
     O backlog inicial deve ajudar a planejar pelo menos os 2 ou 3 primeiros sprints.&#xD;
 &lt;/p></keyConsiderations>
-  <sections xmi:id="_pWL_gAPJEdubhrgDuRb4fA" name="Collecting the backlog items" guid="_pWL_gAPJEdubhrgDuRb4fA">
+  <sections xmi:id="_pWL_gAPJEdubhrgDuRb4fA" name="Coletar backlog items" guid="_pWL_gAPJEdubhrgDuRb4fA">
     <sectionDescription>&lt;p>&#xD;
     The &lt;a class=&quot;elementLink&quot; href=&quot;./../../Easy/roles/product_owner_D991557B.html&quot; guid=&quot;_ICJyYPpaEdqsc-f87sBK8A&quot;>Product Owner&lt;/a>&amp;nbsp;establishes a first list of requirements (a requirement becomes a &lt;a class=&quot;elementLink&quot; href=&quot;./../../Easy/workproducts/product_backlog_item_C561C125.html&quot; guid=&quot;_-D85cIGIEduKE9hnyImx1Q&quot;>Product Backlog Item&lt;/a>)&amp;nbsp;he wish to be implemented for the end of the release.&#xD;
 &lt;/p>&#xD;
@@ -17,15 +17,18 @@
     very well to the Scrum pattern.&#xD;
 &lt;/p></sectionDescription>
   </sections>
-  <sections xmi:id="_u0Z7sAPJEdubhrgDuRb4fA" name="Backlog Prioritizing" guid="_u0Z7sAPJEdubhrgDuRb4fA">
+  <sections xmi:id="_u0Z7sAPJEdubhrgDuRb4fA" name="Priorizar Backlog " guid="_u0Z7sAPJEdubhrgDuRb4fA">
     <sectionDescription>&lt;p>&#xD;
-    The &lt;a class=&quot;elementLink&quot; href=&quot;./../../Easy/roles/product_owner_D991557B.html&quot; guid=&quot;_ICJyYPpaEdqsc-f87sBK8A&quot;>Product Owner&lt;/a>&amp;nbsp;prioritizes backlog items by decreasing priorities. To him, A more important than B means he wants A to&#xD;
-    be implemented before B across the series of partial products.&#xD;
+    O&amp;nbsp; &lt;a class=&quot;elementLink&quot; href=&quot;./../../Easy/roles/product_owner_D991557B.html&quot;&#xD;
+    guid=&quot;_ICJyYPpaEdqsc-f87sBK8A&quot;>Product Owner&lt;/a>&amp;nbsp;prioriza os itens de backlog, diminuindo as prioridades. Para&#xD;
+    ele, um mais importante que B significa que ele quer que A seja implementado antes de B em toda a série de produtos&#xD;
+    parciais.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    wjem a backlog contains a lot of items, the prioritization of each of them is fastidious and subtil. That's why it is&#xD;
-    useful to define &lt;a class=&quot;elementLink&quot; href=&quot;./../../Easy/guidances/termdefinitions/theme_E39DA34D.html&quot; guid=&quot;_aeYKoIKlEduQgtHqedKdMA&quot;>Theme&lt;/a>s, associate one to each item and prioritize themes before getting to item&#xD;
-    prioritization. This can be done during a meeting with team members and stakeholders.&#xD;
+    &lt;span lang=&quot;pt&quot;>Se uma carteira de pedidos contiver muitos itens, a priorização de cada um deles é fastidiosa e subtil.&#xD;
+    É por isso que é útil definir Temas, associar um a cada item e priorizar temas antes de chegar à priorização do item.&#xD;
+    Isso pode ser feito durante uma reunião com membros da equipe e &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../Easy/roles/stakeHolder_1207C822.html&quot; guid=&quot;_Qqmp8P_AEdqtbrr0B1TG-A&quot;>Stakeholder&lt;/a>&lt;/span>&amp;nbsp;.&#xD;
 &lt;/p></sectionDescription>
   </sections>
   <purpose>O objetivo é produzir um backlog grande o suficiente para permitir o arranque da série de sprints.</purpose>

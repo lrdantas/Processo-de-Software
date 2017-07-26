@@ -30,7 +30,7 @@
     <resourceDescriptors xmi:id="_Y-HFonBzEeeiPKYM9YuPKA" id="-dU_t9olFRQIyOBZQvMndKg" uri="guidances/concepts/collaborative_work.xmi"/>
     <resourceDescriptors xmi:id="_Y-HFo3BzEeeiPKYM9YuPKA" id="-BPz1k8sC6CCyJ2yZCc1p2Q" uri="guidances/concepts/product_release_and_sprint.xmi"/>
     <resourceDescriptors xmi:id="_Y-Q2oHBzEeeiPKYM9YuPKA" id="-mi1O4H7RRm0YqlUNyp8TJg" uri="tasks/iniciar_product_backlog.xmi"/>
-    <resourceDescriptors xmi:id="_Y-Q2oXBzEeeiPKYM9YuPKA" id="-MSO8KF-0IlKZJGnSwwTNZA" uri="guidances/concepts/what_is_scrum.xmi"/>
+    <resourceDescriptors xmi:id="_Y-Q2oXBzEeeiPKYM9YuPKA" id="-MSO8KF-0IlKZJGnSwwTNZA" uri="guidances/concepts/what_is_easy.xmi"/>
     <resourceDescriptors xmi:id="_Y-Q2onBzEeeiPKYM9YuPKA" id="-EmLqiNX2WnmsfEtxNiuyTQ" uri="guidances/reports/release_planning.xmi"/>
     <resourceDescriptors xmi:id="_Y-Q2o3BzEeeiPKYM9YuPKA" id="-fcoz1Nm_QnX6xtLg5YWdVg" uri="guidances/termdefinitions/sprint.xmi"/>
     <resourceDescriptors xmi:id="_Y-anoHBzEeeiPKYM9YuPKA" id="-XPyPmZTAVbnvJVuOLvYpXw" uri="guidances/termdefinitions/release.xmi"/>
@@ -38,7 +38,7 @@
     <resourceDescriptors xmi:id="_Y-eSAHBzEeeiPKYM9YuPKA" id="-PeP4fADValHXs2Z2Z8zJ1w" uri="guidances/termdefinitions/Velocity.xmi"/>
     <resourceDescriptors xmi:id="_Y-eSAXBzEeeiPKYM9YuPKA" id="-tHVOELWOQDI7i0M2rlMufQ" uri="guidances/termdefinitions/timebox.xmi"/>
     <resourceDescriptors xmi:id="_Y-eSAnBzEeeiPKYM9YuPKA" id="-KQ4Jzjy6YgAr_2NXa4J67g" uri="guidances/termdefinitions/burndown_chart.xmi"/>
-    <resourceDescriptors xmi:id="_Y-eSA3BzEeeiPKYM9YuPKA" id="-IPxNSDzXKWa-H_kJ2PMtYA" uri="guidances/roadmaps/applying_scrum.xmi"/>
+    <resourceDescriptors xmi:id="_Y-eSA3BzEeeiPKYM9YuPKA" id="-IPxNSDzXKWa-H_kJ2PMtYA" uri="guidances/roadmaps/applying_easy.xmi"/>
     <resourceDescriptors xmi:id="_Y-eSBHBzEeeiPKYM9YuPKA" id="-nEf5e1YzVzUagWILrDo6mQ" uri="guidances/concepts/story_points.xmi"/>
     <resourceDescriptors xmi:id="_Y-nb8HBzEeeiPKYM9YuPKA" id="-Juyx9-ueXCZ9LpMR7tYkHw" uri="guidances/concepts/velocity.xmi"/>
     <resourceDescriptors xmi:id="_Y-nb8XBzEeeiPKYM9YuPKA" id="-N--b3jAh68lpIAKhfqbXXQ" uri="guidances/supportingmaterials/agile_estimation_book.xmi"/>
@@ -128,6 +128,7 @@
             <presentation xmi:id="--ACli_wch3c2fJRCWZ8cdQ" href="uma://--ACli_wch3c2fJRCWZ8cdQ#--ACli_wch3c2fJRCWZ8cdQ"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_fZHeYkzcEdyHWMosG5iTJw" name="category_introduction" guid="_fZHeYkzcEdyHWMosG5iTJw" presentationName="Introduction" categorizedElements="_3WivIBTQEduFIr9xNbwGyQ _PTGe4IRvEduo75chJsIcXg">
+            <methodElementProperty xmi:id="_LUwLgHIJEeeoPPZRXgEFsA" name="me_edited" value="true"/>
             <presentation xmi:id="-4dXo55nUW02D7fmNwGVu7A" href="uma://-4dXo55nUW02D7fmNwGVu7A#-4dXo55nUW02D7fmNwGVu7A"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_fZHeY0zcEdyHWMosG5iTJw" name="category_easy_elements" guid="_fZHeY0zcEdyHWMosG5iTJw" presentationName="Easy Elements" briefDescription="Os elemntos bases que constituem o Easy Process." categorizedElements="_3qmmoP-zEdqLnajTSLeAsA _9yDBIEzbEdyHWMosG5iTJw _fZHeYUzcEdyHWMosG5iTJw">
@@ -214,7 +215,8 @@
             <methodElementProperty xmi:id="_t_7dsHDjEeecJYYys-ao3g" name="me_edited" value="true"/>
             <presentation xmi:id="-mi1O4H7RRm0YqlUNyp8TJg" href="uma://-mi1O4H7RRm0YqlUNyp8TJg#-mi1O4H7RRm0YqlUNyp8TJg"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_3WivIBTQEduFIr9xNbwGyQ" name="what_is_scrum" guid="_3WivIBTQEduFIr9xNbwGyQ" presentationName="What's Scrum" briefDescription="Scrum is a project management technique leading to the release of a product with the highest possible business value in the smallest amount of time.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_3WivIBTQEduFIr9xNbwGyQ" name="what_is_easy" guid="_3WivIBTQEduFIr9xNbwGyQ" presentationName="O que é o Easy Process" briefDescription="Easy process é um framework Ágil de gestão de projetos usado para entregar aos clientes, de forma iterativa e incremental software de alto valor. Todo seu escopo foi baseado no Scrum e remodelado para atender o nível G da MPS.BR.">
+            <methodElementProperty xmi:id="_ZSs_AHIHEeeoPPZRXgEFsA" name="me_edited" value="true"/>
             <presentation xmi:id="-MSO8KF-0IlKZJGnSwwTNZA" href="uma://-MSO8KF-0IlKZJGnSwwTNZA#-MSO8KF-0IlKZJGnSwwTNZA"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Report" xmi:id="_Z2NzkIGWEduKE9hnyImx1Q" name="release_planning" guid="_Z2NzkIGWEduKE9hnyImx1Q" presentationName="Release planning" briefDescription="Map showing sprints and backlog items associated with them" conceptsAndPapers="_XtRuYP-zEdqLnajTSLeAsA">
@@ -238,7 +240,8 @@
           <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_X5rREILYEduLd8CaF_IcMA" name="burndown_chart" guid="_X5rREILYEduLd8CaF_IcMA" presentationName="Burndown Chart">
             <presentation xmi:id="-KQ4Jzjy6YgAr_2NXa4J67g" href="uma://-KQ4Jzjy6YgAr_2NXa4J67g#-KQ4Jzjy6YgAr_2NXa4J67g"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Roadmap" xmi:id="_6Jox0IRuEduo75chJsIcXg" name="applying_scrum" guid="_6Jox0IRuEduo75chJsIcXg" presentationName="Applying Scrum" briefDescription="Applying Scrum without ignoring its principles">
+          <contentElements xsi:type="org.eclipse.epf.uma:Roadmap" xmi:id="_6Jox0IRuEduo75chJsIcXg" name="applying_easy" guid="_6Jox0IRuEduo75chJsIcXg" presentationName="Applying Easy" briefDescription="Aplicando Easy sem ignorar seus princípios">
+            <methodElementProperty xmi:id="_ZTzyQHIHEeeoPPZRXgEFsA" name="me_edited" value="true"/>
             <presentation xmi:id="-IPxNSDzXKWa-H_kJ2PMtYA" href="uma://-IPxNSDzXKWa-H_kJ2PMtYA#-IPxNSDzXKWa-H_kJ2PMtYA"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_ZoVtEESNEdyDx7cbCULuLg" name="story_points" guid="_ZoVtEESNEdyDx7cbCULuLg" presentationName="Story Points" briefDescription="Story points are a unit of measure, used by a team to indicate estimations of effort.">

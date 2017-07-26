@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MSO8KF-0IlKZJGnSwwTNZA" name="what_is_easy,_3WivIBTQEduFIr9xNbwGyQ" guid="-MSO8KF-0IlKZJGnSwwTNZA" changeDate="2017-07-26T10:26:15.365-0300" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    Easy process é um framework Ágil de gestão de projetos usado para entregar aos clientes, de forma iterativa e&#xD;
+    incremental software de alto valor. Easy process depende de equipes hábeis e auto-organizadas para entregar os&#xD;
+    incrementos do software. Também depende de um cliente, ou Dono do Produto, que indique uma equipe com uma lista de&#xD;
+    funcionalidades desejadas, e que use o valor de negocio como mecanismo de priorização.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    No easy processos projetos acontecem em uma série de iterações, com um uma semana de duração, chamadas incrementos&#xD;
+    (sprints).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Easy process é ideal para projetos cujos requisitos mudam rapidamente ou são altamente emergentes. O trabalho é&#xD;
+    registrado nas Pendências do software (Easy Backlog), que é uma lista de todos os desejos de mudança no sistema. No&#xD;
+    inicio de cada incremento é feita uma Reunião de Planejamento de Incremento (Sprint Planning) na qual o Dono do Produto&#xD;
+    (Easy Owner) prioriza as Pendências do software (easy Backlog), e a Equipe de desenvolvimento (Easy Team) seleciona as&#xD;
+    tarefas que ela pode completar durante o próximo Incremento. Essas tarefas são então movidas das Pendências do software&#xD;
+    para as Pendências do Incremento a serem desenvolvidas naquela sprint.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Durante um incremento, são conduzidas curtas reuniões diárias chamadas de Easy Diário (Daily Easy), que ajudam a equipe&#xD;
+    a manter-se no rumo. Também é registrado em um documento o que o membro da equipe esta fazendo naquele dia. Por&#xD;
+    exemplo, o desenvolvedor tem 3 tarefas para realizar durante 1 sprint, a medida que ele for finalizando e entrando em&#xD;
+    outra tarefa deve ser registrado no documento (uma planilha) essa mudança. Ela será usada para realização das reuniões&#xD;
+    de fim da sprint para avaliar o desempenho do membro para com a equipe.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Ao final de cada incremento a equipe demonstra a funcionalidade concluída, na Reunião de Revisão do Incremento (Sprint&#xD;
+    Review). Também é realizado a retrospectiva da sprint, onde de posse do documento citado no parágrafo anterior, a&#xD;
+    equipe vai se avaliar apontando pontos positivos e negativos para melhorar nas próximas iterações do projeto.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
