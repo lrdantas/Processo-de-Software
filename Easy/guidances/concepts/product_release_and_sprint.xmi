@@ -1,35 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-BPz1k8sC6CCyJ2yZCc1p2Q" name="Produit, release et sprint,_XtRuYP-zEdqLnajTSLeAsA" guid="-BPz1k8sC6CCyJ2yZCc1p2Q" changeDate="2007-10-24T00:05:40.332-0200" version="1.0.0">
-  <mainDescription>&lt;p>
-            A &lt;a class=&quot;elementLink&quot; href=&quot;./../../../Scrum/guidances/termdefinitions/release_A7C0A48E.html&quot;
-            guid=&quot;_AIB9gIHrEduFs9jH8xc4xw&quot;>Release&lt;/a>&amp;nbsp;is the result of a series of &lt;a class=&quot;elementLink&quot;
-            href=&quot;./../../../Scrum/guidances/termdefinitions/sprint_494C0C24.html&quot; guid=&quot;_kftWoIHqEduFs9jH8xc4xw&quot;>Sprint&lt;/a>s and
-            last, in general, for a few months. During a products lifetime, many releases are rolled out.
-        &lt;/p>
-        &lt;p>
-            &lt;img alt=&quot;release and sprints&quot; src=&quot;./resources/release.jpg&quot; height=&quot;115&quot; width=&quot;600&quot; />
-        &lt;/p>
-        &lt;p>
-            A release has the following attibutes:
-        &lt;/p>
-        &lt;ul class=&quot;noindent&quot;>
-            &lt;li>
-                goal
-            &lt;/li>
-            &lt;li>
-                type, either &quot;fixed&quot; or &quot;variable&quot;(default). If &quot;fixed&quot;, a date is provided.
-            &lt;/li>
-            &lt;li>
-                length, in days , for sprints
-            &lt;/li>
-            &lt;li>
-                forecasted number of sprints
-            &lt;/li>
-        &lt;/ul>
-        &lt;p>
-            &lt;a class=&quot;elementLink&quot; href=&quot;./../../../Scrum/guidances/reports/release_planning_ED85F1BB.html&quot;
-            guid=&quot;_Z2NzkIGWEduKE9hnyImx1Q&quot;>Release planning&lt;/a>&amp;nbsp;is a level of project planning: it shows at a high level, the
-            list of items to be developed during this release' sprints.&lt;br />
-            &lt;br />
-        &lt;/p></mainDescription>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-BPz1k8sC6CCyJ2yZCc1p2Q" name="Produit, release et sprint,_XtRuYP-zEdqLnajTSLeAsA" guid="-BPz1k8sC6CCyJ2yZCc1p2Q" changeDate="2017-07-26T20:23:15.453-0300" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    Um&amp;nbsp;&lt;a class=&quot;elementLink&quot; href=&quot;./../../../Easy/guidances/termdefinitions/release_A7C0A48E.html&quot;&#xD;
+    guid=&quot;_AIB9gIHrEduFs9jH8xc4xw&quot;>Release&lt;/a>&amp;nbsp;é o resultado de uma série de&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../Easy/guidances/termdefinitions/sprint_494C0C24.html&quot; guid=&quot;_kftWoIHqEduFs9jH8xc4xw&quot;>Sprint&lt;/a>s&amp;nbsp;e&#xD;
+    por último,&amp;nbsp;em geral,&amp;nbsp;por poucos meses.&amp;nbsp;Durante o ciclo de vida do produto, muitos releases são&#xD;
+    lançados.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;release and sprints&quot; src=&quot;./resources/release.jpg&quot; width=&quot;600&quot; height=&quot;115&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Um release tem os seguintes atributos:&#xD;
+&lt;/p>&#xD;
+&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li>&#xD;
+        Objetivo&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;span lang=&quot;pt&quot;>Tipo, &quot;fixo&quot; ou &quot;variável&quot; (padrão). Se for &quot;corrigido&quot;, é fornecida uma data.&lt;/span>&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Tamanho, em dias, para as Sprints.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;span lang=&quot;pt&quot;>Número previsto de sprints&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    &lt;a class=&quot;elementLink&quot; href=&quot;./../../../Easy/guidances/reports/release_planning_ED85F1BB.html&quot;&#xD;
+    guid=&quot;_Z2NzkIGWEduKE9hnyImx1Q&quot;>Release planning&lt;/a>&amp;nbsp;é &lt;span lang=&quot;pt&quot;>um nível de planejamento de projeto: mostra&#xD;
+    em um nível alto, a lista de itens a serem desenvolvidos durante este&lt;/span> release' sprints.&lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>

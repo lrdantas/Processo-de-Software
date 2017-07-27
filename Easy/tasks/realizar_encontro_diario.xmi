@@ -7,11 +7,11 @@
 &lt;p>&#xD;
     Este encontro dura em média 15 minutos.&amp;nbsp;&#xD;
 &lt;/p></keyConsiderations>
-  <sections xmi:id="_oUrlcBGOEduHloEV5-Zv-w" name="Preparing" guid="_oUrlcBGOEduHloEV5-Zv-w">
+  <sections xmi:id="_oUrlcBGOEduHloEV5-Zv-w" name="Preparar" guid="_oUrlcBGOEduHloEV5-Zv-w">
     <sectionDescription>&lt;span lang=&quot;pt&quot; id=&quot;result_box&quot;>&lt;span>Todos atualizam o planejamento (o backlog deste sprint) atualizando o trabalho&#xD;
 restante em cada uma das tarefas, o que leva a um&lt;/span>&lt;/span>&lt;span role=&quot;button&quot; aria-hidden=&quot;true&quot; id=&quot;t-served-community-button&quot; class=&quot;trans-verified-button goog-toolbar-button&quot; style=&quot;DISPLAY: none; -ms-user-select: none&quot;>&lt;/span> &lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/guidances/reports/sprint_burndown_chart_C6600C07.html&quot; guid=&quot;_jC4NwPpaEdqsc-f87sBK8A&quot;>Sprint Burndown Chart&lt;/a>.</sectionDescription>
   </sections>
-  <sections xmi:id="_r0KkEBGOEduHloEV5-Zv-w" name="Gathering all together" guid="_r0KkEBGOEduHloEV5-Zv-w">
+  <sections xmi:id="_r0KkEBGOEduHloEV5-Zv-w" name="Reunir todos juntos" guid="_r0KkEBGOEduHloEV5-Zv-w">
     <sectionDescription>&lt;p>&#xD;
     &lt;span lang=&quot;pt&quot; id=&quot;result_box&quot;>&lt;span>Cada membro da equipe se expressa um após um, respondendo a 3 perguntas&#xD;
     sobre:&lt;/span>&lt;/span>&lt;span role=&quot;button&quot; aria-hidden=&quot;true&quot; id=&quot;t-served-community-button&quot;     class=&quot;trans-verified-button goog-toolbar-button&quot; style=&quot;DISPLAY: none; -ms-user-select: none&quot;>&lt;/span>&#xD;
@@ -32,7 +32,7 @@ restante em cada uma das tarefas, o que leva a um&lt;/span>&lt;/span>&lt;span ro
     com&lt;/span>&lt;/span> &lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/workproducts/sprint_backlog_AEF9CB4A.html&quot; guid=&quot;_Dzw70PpZEdqsc-f87sBK8A&quot;>Sprint Backlog&lt;/a> e atualizado o &lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/guidances/reports/sprint_burndown_chart_C6600C07.html&quot; guid=&quot;_jC4NwPpaEdqsc-f87sBK8A&quot;>Sprint Burndown Chart&lt;/a> &lt;span lang=&quot;pt&quot; id=&quot;result_box&quot; class=&quot;short_text&quot;>&lt;span>Diante de seus olhos&lt;/span>&lt;/span>.&#xD;
 &lt;/p></sectionDescription>
   </sections>
-  <sections xmi:id="_vZkkgBGOEduHloEV5-Zv-w" name="Consolider" guid="_vZkkgBGOEduHloEV5-Zv-w">
+  <sections xmi:id="_vZkkgBGOEduHloEV5-Zv-w" name="Consolidar" guid="_vZkkgBGOEduHloEV5-Zv-w">
     <sectionDescription>&lt;p>&#xD;
     A atualização do&amp;nbsp;&lt;a class=&quot;elementLink&quot; href=&quot;./../../Scrum/workproducts/sprint_backlog_AEF9CB4A.html&quot; guid=&quot;_Dzw70PpZEdqsc-f87sBK8A&quot;>Sprint Backlog&lt;/a> ajuda a tomar uma decisão sobre como regular o objetivo do Sprint.&#xD;
     Deve ter em mente que um sprint é limitado no tempo (timebox) e que é preferível remover o conteúdo inicialmente&#xD;

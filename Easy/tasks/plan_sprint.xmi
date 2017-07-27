@@ -25,73 +25,68 @@
   </sections>
   <sections xmi:id="_xvy5UAPKEdubhrgDuRb4fA" name="Selecionar items" guid="_xvy5UAPKEdubhrgDuRb4fA">
     <sectionDescription>&lt;p>&#xD;
-    It is about defining the scope of this sprint. This is done by associating &lt;a class=&quot;elementLink&quot;&#xD;
-    href=&quot;./../../Easy/workproducts/product_backlog_item_C561C125.html&quot; guid=&quot;_-D85cIGIEduKE9hnyImx1Q&quot;>Product Backlog&#xD;
-    Item&lt;/a>s one by one &amp;nbsp;to the sprint, and balancing with the team velocity.&#xD;
+    &lt;span lang=&quot;pt&quot; id=&quot;result_box&quot; class=&quot;short_text&quot;>&lt;span>Trata-se de definir o e&lt;/span>&lt;/span>scopo da sprint. Isto é&#xD;
+    feito pela associação do &lt;a class=&quot;elementLink&quot; href=&quot;./../../Easy/workproducts/product_backlog_item_C561C125.html&quot; guid=&quot;_-D85cIGIEduKE9hnyImx1Q&quot;>Product Backlog Item&lt;/a>s u&lt;span lang=&quot;pt&quot; id=&quot;result_box&quot;>&lt;span>m a um ao sprint, e&#xD;
+    equilibrando-se com a velocidade da equipe.&lt;/span>&lt;/span>&lt;span role=&quot;button&quot; aria-hidden=&quot;true&quot;     id=&quot;t-served-community-button&quot; class=&quot;trans-verified-button goog-toolbar-button&quot;     style=&quot;DISPLAY: none; -ms-user-select: none&quot;>&lt;/span>&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    If a &lt;a class=&quot;elementLink&quot; href=&quot;./../../Easy/guidances/reports/release_planning_ED85F1BB.html&quot;&#xD;
-    guid=&quot;_Z2NzkIGWEduKE9hnyImx1Q&quot;>Release planning&lt;/a>&amp;nbsp;has been done, this step is only about collectively validating&#xD;
-    the forecasted backlog subset for the sprint.&#xD;
+    Se um&amp;nbsp;&lt;a class=&quot;elementLink&quot; href=&quot;./../../Easy/guidances/reports/release_planning_ED85F1BB.html&quot; guid=&quot;_Z2NzkIGWEduKE9hnyImx1Q&quot;>Release planning&lt;/a>&amp;nbsp;f&lt;span lang=&quot;pt&quot; id=&quot;result_box&quot;>&lt;span>oi feito, este passo é&#xD;
+    apenas sobre a validação coletiva do subconjunto de backlog previsto para o sprint.&lt;/span>&lt;/span>&#xD;
 &lt;/p></sectionDescription>
   </sections>
   <sections xmi:id="_p4C0sP--Edqtbrr0B1TG-A" name="Identificar tarefas dos items" guid="_p4C0sP--Edqtbrr0B1TG-A">
     <sectionDescription>&lt;p>&#xD;
-    The 2nd part of the meeting is about defining how the team is gonna achieve the sprint objectives.&lt;br />&#xD;
-    To do that, each selected &lt;a class=&quot;elementLink&quot; href=&quot;./../../Easy/workproducts/product_backlog_item_C561C125.html&quot; guid=&quot;_-D85cIGIEduKE9hnyImx1Q&quot;>Product Backlog Item&lt;/a>&amp;nbsp;is decomposed into tasks. This enables the team to discuss&#xD;
-    and figure solutions aspects towards this item, asking the procut owner, if necessary, precisions on the product&#xD;
-    behavior.&lt;br />&#xD;
+    &lt;span lang=&quot;pt&quot; id=&quot;result_box&quot;>&lt;span>A segunda parte da reunião é sobre como definir a forma como a equipe vai atingir&#xD;
+    os objetivos de sprint.&lt;/span>&lt;/span>&lt;br />&#xD;
+    &lt;span>Para fazer isso, cada Item de&lt;/span> &lt;a class=&quot;elementLink&quot; href=&quot;./../../Easy/workproducts/product_backlog_item_C561C125.html&quot; guid=&quot;_-D85cIGIEduKE9hnyImx1Q&quot;>Product Backlog Item&lt;/a>&amp;nbsp;selecionado é decomposto em tarefas. Isso permite que a equipe discuta e encontre aspectos de soluções&#xD;
+    para este item, perguntando ao &lt;a class=&quot;elementLink&quot; href=&quot;./../../Easy/roles/product_owner_D991557B.html&quot; guid=&quot;_ICJyYPpaEdqsc-f87sBK8A&quot;>Product Owner&lt;/a>, se necessário,&amp;nbsp;detalhamento sobre o comportamento do produto.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    Normaly, all the lifecycle activities are rolled out during a sprint:&lt;br />&#xD;
+    &lt;span tabindex=&quot;-1&quot; lang=&quot;pt&quot; id=&quot;result_box&quot;>&lt;span>Normalmente, todas as atividades do ciclo de vida são lançadas&#xD;
+    durante um sprint:&lt;/span>&lt;/span>&lt;span role=&quot;button&quot; aria-hidden=&quot;true&quot; id=&quot;t-served-community-button&quot;     class=&quot;trans-verified-button goog-toolbar-button&quot; style=&quot;DISPLAY: none; -ms-user-select: none&quot;>&lt;/span>&#xD;
 &lt;/p>&#xD;
 &lt;ul>&#xD;
     &lt;li>&#xD;
-        Selected requirements are specified&#xD;
+        &lt;span tabindex=&quot;-1&quot; lang=&quot;pt&quot; id=&quot;result_box&quot;>&lt;span>Os requisitos selecionados são especificados,&lt;/span>&lt;/span>&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
-        Architecture is modified if necessary&#xD;
+        &lt;span tabindex=&quot;-1&quot; lang=&quot;pt&quot;>&lt;span>A arquitetura é modificada se necessário,&lt;/span>&lt;/span>&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
-        Classes and subsystems are designed, implemented and tested&#xD;
+        &lt;span tabindex=&quot;-1&quot; lang=&quot;pt&quot;>&lt;span>Classes e subsistemas são projetados, implementados e testados,&lt;/span>&lt;/span>&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
-        The different components are integrated and tested&#xD;
+        &lt;span tabindex=&quot;-1&quot; lang=&quot;pt&quot;>&lt;span>Os diferentes componentes estão integrados e testados,&lt;/span>&lt;/span>&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
-        Product is packaged&#xD;
+        &lt;span tabindex=&quot;-1&quot; lang=&quot;pt&quot;>&lt;span>O produto é empacotado,&lt;/span>&lt;/span>&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
-        Acceptance tests are passed.&lt;br />&#xD;
+        &lt;span tabindex=&quot;-1&quot; lang=&quot;pt&quot;>&lt;span>Os testes de aceitação são aprovados.&lt;/span>&lt;/span>&lt;span role=&quot;button&quot;         aria-hidden=&quot;true&quot; id=&quot;t-served-community-button&quot; class=&quot;trans-verified-button goog-toolbar-button&quot;         style=&quot;DISPLAY: none; -ms-user-select: none&quot;>&lt;/span>&#xD;
     &lt;/li>&#xD;
 &lt;/ul>&#xD;
-&lt;p>&#xD;
-    The given importance to these activities depends on the position of the sprint within the release.&lt;br />&#xD;
-    &lt;br />&#xD;
-    The planned work in a previous sprint that couldn't be done because of objectives reduction, becomes the priority for&#xD;
-    next sprint.&#xD;
-&lt;/p></sectionDescription>
+&lt;br /></sectionDescription>
   </sections>
   <sections xmi:id="_DxNQUAPLEdubhrgDuRb4fA" name="Estimar tarefas" guid="_DxNQUAPLEdubhrgDuRb4fA">
     <sectionDescription>&lt;p>&#xD;
-    Tasks are estimated in hours. Tasks should be thin enough to take less than 16 hours.&#xD;
+    As tarefas são estimadas em horas. As tarefas devem ser pequena o suficiente para levar menos de 16 horas.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    Estimation is collectively made by the team. During this discussion, technical aspects are reviewed.&#xD;
+    A estimativa é feita coletivamente pela equipe. Durante esta discussão, os aspectos técnicos são analisados.&#xD;
 &lt;/p></sectionDescription>
   </sections>
   <sections xmi:id="_worbAP--Edqtbrr0B1TG-A" name="Atribuir tarefas" guid="_worbAP--Edqtbrr0B1TG-A">
-    <sectionDescription>Once sprint activities are defined, they will be assigned to team members. Activities can be done by one or many persons.&#xD;
-All the activities must be taken in to account, including work meetings (non Scrum meetings as well), code or document&#xD;
-reviews.&lt;br />&#xD;
-It is preferable to delay assignement of certain activities, which will be assigned during the sprint in accordance with&#xD;
-team members availability.</sectionDescription>
+    <sectionDescription>&lt;p>&#xD;
+    &lt;span tabindex=&quot;-1&quot; lang=&quot;pt&quot; id=&quot;result_box&quot;>&lt;span>Uma vez definidas as atividades de sprint, elas serão atribuídas&#xD;
+    aos membros da equipe.&lt;/span> &lt;span>As atividades podem ser realizadas por uma ou mais pessoas.&lt;/span> &lt;span>Todas as&#xD;
+    atividades devem ser levadas em conta, incluindo reuniões de trabalho, revisões de código ou documentos.&lt;/span>&lt;br />&#xD;
+    &lt;span>É preferível atrasar a atribuição de certas atividades, que serão atribuídas durante o sprint de acordo com a&#xD;
+    disponibilidade dos membros da equipe.&lt;/span>&lt;/span>&lt;span role=&quot;button&quot; aria-hidden=&quot;true&quot;     id=&quot;t-served-community-button&quot; class=&quot;trans-verified-button goog-toolbar-button&quot;     style=&quot;DISPLAY: none; -ms-user-select: none&quot;>&lt;/span>&#xD;
+&lt;/p></sectionDescription>
   </sections>
   <sections xmi:id="_Iq14wAPLEdubhrgDuRb4fA" name="Obter compromisso da equipe" guid="_Iq14wAPLEdubhrgDuRb4fA">
-    <sectionDescription>&lt;p>&#xD;
-    Team should collectively commit to the sprint backlog, that is on backlog items it estimates being able to implement&#xD;
-    within the sprint.&#xD;
-&lt;/p></sectionDescription>
+    <sectionDescription>&lt;span tabindex=&quot;-1&quot; lang=&quot;pt&quot; id=&quot;result_box&quot;>&lt;span>A equipe deve se comprometer coletivamente com o backlog do sprint,&#xD;
+isto é, em itens de backlog que estima serem capazes de implementar dentro do sprint.&lt;/span>&lt;/span></sectionDescription>
   </sections>
   <purpose>O objetivo é planejar o sprint inicial.</purpose>
 </org.eclipse.epf.uma:TaskDescription>

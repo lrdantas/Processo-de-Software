@@ -15,19 +15,5 @@
     &lt;li>&#xD;
         Auto-gestão da equipe para fazer o que precisa ser feito&#xD;
     &lt;/li>&#xD;
-&lt;/ul>&#xD;
-&lt;br />&#xD;
-&lt;p>&#xD;
-    Although, Scrum does not describe engineering activities required for product development.&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    The application of Scrum as described below, must be read and used with these Agile principles always in mind. It shows&#xD;
-    how Scrum elements are used during a time period or lifecycle.&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    This lifecycle does not represent the whole product life, but only regards the production of one &lt;a class=&quot;elementLink&quot;&#xD;
-    href=&quot;./../../../Easy/guidances/termdefinitions/release_A7C0A48E.html&quot; guid=&quot;_AIB9gIHrEduFs9jH8xc4xw&quot;>Release&lt;/a>. The&#xD;
-    &lt;a class=&quot;elementLink&quot; href=&quot;./../../../Easy/guidances/concepts/product_release_and_sprint_6CF0007C.html&quot;&#xD;
-    guid=&quot;_XtRuYP-zEdqLnajTSLeAsA&quot;>Product, Release and Sprint&lt;/a> guide&amp;nbsp;reconsider this period in a larger context.&#xD;
-&lt;/p></mainDescription>
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>

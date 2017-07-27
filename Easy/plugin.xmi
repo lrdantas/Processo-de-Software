@@ -69,6 +69,7 @@
     <resourceDescriptors xmi:id="_f-vO8HCjEeetYMsQ8VCH7Q" id="-eQrQ0pifhU68INtEwFvvAQ" uri="tasks/preparar_ambiente_de_trabalho.xmi"/>
     <resourceDescriptors xmi:id="_2DemknClEeetYMsQ8VCH7Q" id="-wLX6YMdSxoHU6dlg3dO9DQ" uri="tasks/avaliar_viabilidade_do_projeto.xmi"/>
     <resourceDescriptors xmi:id="_wDsY8nCmEeetYMsQ8VCH7Q" id="-EwvPTyt5NzDxHquRTXQRYw" uri="workproducts/ata_de_viabilidade.xmi"/>
+    <resourceDescriptors xmi:id="_VQLcwXJfEeeqeftv1ShIVQ" id="-TYSx_rHdNd3zTUgueCFQ8Q" uri="customcategories/category_management.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_mQ3eoPpYEdqsc-f87sBK8A" name="Easy" guid="_mQ3eoPpYEdqsc-f87sBK8A" briefDescription="Este é um plugin baseado na metodologia Scrum." authors="Easy Tour" changeDate="2017-07-25T22:29:57.978-0300" version="1.0" copyrightStatement="_N8zs0AEGEduzRosbOajx7w">
     <methodElementProperty xmi:id="_734ToHGhEeetMYNV1nEceA" name="me_edited" value="true"/>
@@ -103,7 +104,7 @@
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_mQ3eqPpYEdqsc-f87sBK8A" name="StandardCategories" guid="_mQ3eqPpYEdqsc-f87sBK8A"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_mQ3eqfpYEdqsc-f87sBK8A" name="CustomCategories" guid="_mQ3eqfpYEdqsc-f87sBK8A">
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_mQ3eqvpYEdqsc-f87sBK8A" name="Hidden" guid="_mQ3eqvpYEdqsc-f87sBK8A">
-            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_mQ3eq_pYEdqsc-f87sBK8A" name="Custom Categories" guid="_mQ3eq_pYEdqsc-f87sBK8A" categorizedElements="_7BSBkABCEduYUKPFgCzFuA _9yDBIEzbEdyHWMosG5iTJw _fZHeYEzcEdyHWMosG5iTJw _fZHeYUzcEdyHWMosG5iTJw _fZHeYkzcEdyHWMosG5iTJw _fZHeY0zcEdyHWMosG5iTJw"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_mQ3eq_pYEdqsc-f87sBK8A" name="Custom Categories" guid="_mQ3eq_pYEdqsc-f87sBK8A" categorizedElements="_7BSBkABCEduYUKPFgCzFuA _9yDBIEzbEdyHWMosG5iTJw _fZHeYEzcEdyHWMosG5iTJw _fZHeYUzcEdyHWMosG5iTJw _fZHeYkzcEdyHWMosG5iTJw _fZHeY0zcEdyHWMosG5iTJw _jsiDgHJdEeeqeftv1ShIVQ"/>
           </childPackages>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_7BSBkABCEduYUKPFgCzFuA" name="easy_lifecycle" guid="_7BSBkABCEduYUKPFgCzFuA" presentationName="Easy LifeCycle">
             <methodElementProperty xmi:id="_Nxo4kHGkEeetMYNV1nEceA" name="me_edited" value="true"/>
@@ -111,7 +112,7 @@
             <categorizedElements xsi:type="org.eclipse.epf.uma:Roadmap" href="#_6Jox0IRuEduo75chJsIcXg"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:Concept" href="#_XtRuYP-zEdqLnajTSLeAsA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_9yDBIEzbEdyHWMosG5iTJw" name="category_artifacts" guid="_9yDBIEzbEdyHWMosG5iTJw" presentationName="Easy Artifacts" briefDescription="As coisas que estão disponíveis para que as funções gravem a informação necessária do projeto." categorizedElements="_5ABscPpYEdqsc-f87sBK8A _Dzw70PpZEdqsc-f87sBK8A _tCmYEP-xEdqLnajTSLeAsA">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_9yDBIEzbEdyHWMosG5iTJw" name="category_artifacts" guid="_9yDBIEzbEdyHWMosG5iTJw" presentationName="Easy Artifacts" briefDescription="As coisas que estão disponíveis para que as funções gravem a informação necessária do projeto." categorizedElements="_5ABscPpYEdqsc-f87sBK8A _Dzw70PpZEdqsc-f87sBK8A _tCmYEP-xEdqLnajTSLeAsA _U_7QoHCmEeetYMsQ8VCH7Q _zN3lAHCdEeetYMsQ8VCH7Q _G5SYAHCkEeetYMsQ8VCH7Q __XWNYHCfEeetYMsQ8VCH7Q _5eJTcHChEeetYMsQ8VCH7Q _SsJUUHCfEeetYMsQ8VCH7Q _vKqe8PpaEdqsc-f87sBK8A _Z2NzkIGWEduKE9hnyImx1Q _jC4NwPpaEdqsc-f87sBK8A">
             <methodElementProperty xmi:id="_Y9ASYnBzEeeiPKYM9YuPKA" name="PUBLISH_CATEGORY" value="true"/>
             <methodElementProperty xmi:id="_ha8LUHFgEeeQB4FKMAE3Rg" name="me_edited" value="true"/>
             <presentation xmi:id="-ViT5-mwkNqQP_VFaDwNqQQ" href="uma://-ViT5-mwkNqQP_VFaDwNqQQ#-ViT5-mwkNqQP_VFaDwNqQQ"/>
@@ -131,9 +132,13 @@
             <methodElementProperty xmi:id="_LUwLgHIJEeeoPPZRXgEFsA" name="me_edited" value="true"/>
             <presentation xmi:id="-4dXo55nUW02D7fmNwGVu7A" href="uma://-4dXo55nUW02D7fmNwGVu7A#-4dXo55nUW02D7fmNwGVu7A"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_fZHeY0zcEdyHWMosG5iTJw" name="category_easy_elements" guid="_fZHeY0zcEdyHWMosG5iTJw" presentationName="Easy Elements" briefDescription="Os elemntos bases que constituem o Easy Process." categorizedElements="_3qmmoP-zEdqLnajTSLeAsA _9yDBIEzbEdyHWMosG5iTJw _fZHeYUzcEdyHWMosG5iTJw">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_fZHeY0zcEdyHWMosG5iTJw" name="category_easy_elements" guid="_fZHeY0zcEdyHWMosG5iTJw" presentationName="Easy Elements" briefDescription="Os elemntos bases que constituem o Easy Process." categorizedElements="_3qmmoP-zEdqLnajTSLeAsA _9yDBIEzbEdyHWMosG5iTJw _fZHeYUzcEdyHWMosG5iTJw _jsiDgHJdEeeqeftv1ShIVQ">
             <methodElementProperty xmi:id="_HIUlwHGlEeetMYNV1nEceA" name="me_edited" value="true"/>
             <presentation xmi:id="-WeMVeufCr8WVt0dtENtm-Q" href="uma://-WeMVeufCr8WVt0dtENtm-Q#-WeMVeufCr8WVt0dtENtm-Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_jsiDgHJdEeeqeftv1ShIVQ" name="category_management" guid="_jsiDgHJdEeeqeftv1ShIVQ" presentationName="Management points" briefDescription="Os elementos bases que constituem o Easy Process." categorizedElements="_r1YCkHCfEeetYMsQ8VCH7Q _RqPjsHClEeetYMsQ8VCH7Q _ROb1oHCeEeetYMsQ8VCH7Q _NxfqIHCdEeetYMsQ8VCH7Q _Xpd5gP_AEdqtbrr0B1TG-A">
+            <methodElementProperty xmi:id="_VP0QYHJfEeeqeftv1ShIVQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-TYSx_rHdNd3zTUgueCFQ8Q" href="uma://-TYSx_rHdNd3zTUgueCFQ8Q#-TYSx_rHdNd3zTUgueCFQ8Q"/>
           </contentElements>
         </childPackages>
       </childPackages>
@@ -209,6 +214,7 @@
             <presentation xmi:id="-dU_t9olFRQIyOBZQvMndKg" href="uma://-dU_t9olFRQIyOBZQvMndKg#-dU_t9olFRQIyOBZQvMndKg"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_XtRuYP-zEdqLnajTSLeAsA" name="product_release_and_sprint" guid="_XtRuYP-zEdqLnajTSLeAsA" presentationName="Product, Release and Sprint">
+            <methodElementProperty xmi:id="_VcFx0HJfEeeqeftv1ShIVQ" name="me_edited" value="true"/>
             <presentation xmi:id="-BPz1k8sC6CCyJ2yZCc1p2Q" href="uma://-BPz1k8sC6CCyJ2yZCc1p2Q#-BPz1k8sC6CCyJ2yZCc1p2Q"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_BGFMoANkEduYd-55D-Aiqg" name="iniciar_product_backlog" guid="_BGFMoANkEduYd-55D-Aiqg" presentationName="Iniciar Product Backlog" briefDescription="Identifique uma lista de itens, priorize e inclua-os no backlog." performedBy="_ICJyYPpaEdqsc-f87sBK8A" output="_5ABscPpYEdqsc-f87sBK8A" additionallyPerformedBy="_Qqmp8P_AEdqtbrr0B1TG-A _9apLsPpaEdqsc-f87sBK8A">

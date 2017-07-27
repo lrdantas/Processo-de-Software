@@ -39,11 +39,11 @@
       <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_7FGsMQNkEduYd-55D-Aiqg" name="stakeHolder" guid="_7FGsMQNkEduYd-55D-Aiqg" presentationName="Stakeholder" isPlanned="false" hasMultipleOccurrences="true" superActivities="_37TdkAL_EduOAKqB9I73uw">
         <Role href="uma://_mQ3eoPpYEdqsc-f87sBK8A#_Qqmp8P_AEdqtbrr0B1TG-A"/>
       </processElements>
-      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_O6XmcANlEduYd-55D-Aiqg" name="Preparation work" guid="_O6XmcANlEduYd-55D-Aiqg" presentationName="Preparation tasks" isPlanned="true" hasMultipleOccurrences="true" superActivities="_37TdkAL_EduOAKqB9I73uw" performedPrimarilyBy="_zYaEsgMAEduOAKqB9I73uw"/>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_O6XmcANlEduYd-55D-Aiqg" name="Preparation work" guid="_O6XmcANlEduYd-55D-Aiqg" presentationName="Preparation tasks" isPlanned="true" hasMultipleOccurrences="true" superActivities="_37TdkAL_EduOAKqB9I73uw" isSynchronizedWithSource="false" additionallyPerformedBy="_zYaEsAMAEduOAKqB9I73uw" performedPrimarilyBy="_zYaEsgMAEduOAKqB9I73uw"/>
       <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_reB2UHFfEeeQB4FKMAE3Rg" name="estabelecer_cronograma" guid="_reB2UHFfEeeQB4FKMAE3Rg" presentationName="Estabelecer Cronograma" superActivities="_37TdkAL_EduOAKqB9I73uw" linkToPredecessor="_sj_eYHGXEeetMYNV1nEceA" additionallyPerformedBy="_zYaEsgMAEduOAKqB9I73uw" output="_fQRPcHGgEeetMYNV1nEceA" performedPrimarilyBy="_zYaEsAMAEduOAKqB9I73uw">
         <Task href="uma://_mQ3eoPpYEdqsc-f87sBK8A#_ROb1oHCeEeetYMsQ8VCH7Q"/>
       </processElements>
-      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_OcAGAHFpEeeQB4FKMAE3Rg" name="Estabelecer Orcamento" guid="_OcAGAHFpEeeQB4FKMAE3Rg" presentationName="Estabelecer Orçamento" superActivities="_37TdkAL_EduOAKqB9I73uw" additionallyPerformedBy="_zYaEsgMAEduOAKqB9I73uw" output="_bvv0AHFpEeeQB4FKMAE3Rg" performedPrimarilyBy="_zYaEsAMAEduOAKqB9I73uw">
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_OcAGAHFpEeeQB4FKMAE3Rg" name="Estabelecer Orcamento" guid="_OcAGAHFpEeeQB4FKMAE3Rg" presentationName="Estabelecer Orçamento" superActivities="_37TdkAL_EduOAKqB9I73uw" linkToPredecessor="_CeIdkHJgEeeqeftv1ShIVQ" additionallyPerformedBy="_zYaEsgMAEduOAKqB9I73uw" output="_bvv0AHFpEeeQB4FKMAE3Rg" performedPrimarilyBy="_zYaEsAMAEduOAKqB9I73uw">
         <Task href="uma://_mQ3eoPpYEdqsc-f87sBK8A#_NxfqIHCdEeetYMsQ8VCH7Q"/>
       </processElements>
       <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_bvv0AHFpEeeQB4FKMAE3Rg" name="planilha_de_custo" guid="_bvv0AHFpEeeQB4FKMAE3Rg" presentationName="Planilha de Custo" isPlanned="false" superActivities="_37TdkAL_EduOAKqB9I73uw">
@@ -60,6 +60,7 @@
       <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_fQRPcHGgEeetMYNV1nEceA" name="diagrama_de_gantt" guid="_fQRPcHGgEeetMYNV1nEceA" presentationName="Diagrama de Gantt" isPlanned="false" superActivities="_37TdkAL_EduOAKqB9I73uw">
         <WorkProduct href="uma://_mQ3eoPpYEdqsc-f87sBK8A#_zN3lAHCdEeetYMsQ8VCH7Q"/>
       </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_CeIdkHJgEeeqeftv1ShIVQ" guid="_CeIdkHJgEeeqeftv1ShIVQ" pred="_O6XmcANlEduYd-55D-Aiqg"/>
     </childPackages>
     <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_NSW6sAMAEduOAKqB9I73uw" name="Sprint Phase" guid="_NSW6sAMAEduOAKqB9I73uw">
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_SoXWEAMAEduOAKqB9I73uw" name="Sprint (n)" guid="_SoXWEAMAEduOAKqB9I73uw">
@@ -129,7 +130,8 @@
         <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_34UPdAzNEduDObTFE5q79g" guid="_34UPdAzNEduDObTFE5q79g" linkType="finishToFinish" pred="_glbG0QMAEduOAKqB9I73uw"/>
         <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_34UPdQzNEduDObTFE5q79g" guid="_34UPdQzNEduDObTFE5q79g" linkType="finishToFinish" pred="_nXmKUANlEduYd-55D-Aiqg"/>
         <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_34UPdgzNEduDObTFE5q79g" guid="_34UPdgzNEduDObTFE5q79g" linkType="finishToFinish" pred="_glbG0AMAEduOAKqB9I73uw"/>
-        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_E7q_QHFpEeeQB4FKMAE3Rg" name="Analise de Risco" guid="_E7q_QHFpEeeQB4FKMAE3Rg" presentationName="Analise de Risco" isPlanned="true" superActivities="_SoXWEQMAEduOAKqB9I73uw" isRepeatable="true" isEventDriven="true" isSynchronizedWithSource="false"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_E7q_QHFpEeeQB4FKMAE3Rg" name="Analise de Risco" guid="_E7q_QHFpEeeQB4FKMAE3Rg" presentationName="Analise de Risco" isPlanned="true" superActivities="_SoXWEQMAEduOAKqB9I73uw" isRepeatable="true" isEventDriven="true" linkToPredecessor="_LRRuMHJgEeeqeftv1ShIVQ" isSynchronizedWithSource="false"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_LRRuMHJgEeeqeftv1ShIVQ" guid="_LRRuMHJgEeeqeftv1ShIVQ" linkType="finishToFinish" pred="_glbG0wMAEduOAKqB9I73uw"/>
       </childPackages>
       <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_NSW6sQMAEduOAKqB9I73uw" name="Sprint Phase" guid="_NSW6sQMAEduOAKqB9I73uw" presentationName="Sprint phases" briefDescription="This phase is about rolling out sprints one after the other." isPlanned="false" superActivities="_9llsAQAvEdubGMceRDupFQ" linkToPredecessor="_9MP9UAMAEduOAKqB9I73uw" breakdownElements="_SoXWEQMAEduOAKqB9I73uw _zbM2QIGBEduKE9hnyImx1Q _MpXRYIGOEduKE9hnyImx1Q _RHd0YIGOEduKE9hnyImx1Q"/>
       <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_9MP9UAMAEduOAKqB9I73uw" guid="_9MP9UAMAEduOAKqB9I73uw" linkType="finishToFinish" pred="_37TdkAL_EduOAKqB9I73uw"/>

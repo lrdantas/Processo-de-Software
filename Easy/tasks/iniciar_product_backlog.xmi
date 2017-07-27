@@ -4,18 +4,13 @@
     O backlog inicial deve ajudar a planejar pelo menos os 2 ou 3 primeiros sprints.&#xD;
 &lt;/p></keyConsiderations>
   <sections xmi:id="_pWL_gAPJEdubhrgDuRb4fA" name="Coletar backlog items" guid="_pWL_gAPJEdubhrgDuRb4fA">
-    <sectionDescription>&lt;p>&#xD;
-    The &lt;a class=&quot;elementLink&quot; href=&quot;./../../Easy/roles/product_owner_D991557B.html&quot; guid=&quot;_ICJyYPpaEdqsc-f87sBK8A&quot;>Product Owner&lt;/a>&amp;nbsp;establishes a first list of requirements (a requirement becomes a &lt;a class=&quot;elementLink&quot; href=&quot;./../../Easy/workproducts/product_backlog_item_C561C125.html&quot; guid=&quot;_-D85cIGIEduKE9hnyImx1Q&quot;>Product Backlog Item&lt;/a>)&amp;nbsp;he wish to be implemented for the end of the release.&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    To complere this list and obtain a sufficient backlog, it is better to organize a workshop including the whole team&#xD;
-    plus stakeholders. During this workshop, the &lt;a class=&quot;elementLink&quot; href=&quot;./../../Easy/roles/product_owner_D991557B.html&quot; guid=&quot;_ICJyYPpaEdqsc-f87sBK8A&quot;>Product Owner&lt;/a>&amp;nbsp;introduces&#xD;
-    his backlog draft and each one may suggest additional items.&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    It is frequent a backlog item be identified as a User story, technique coming from EXtreme Programming (XP) et fitting&#xD;
-    very well to the Scrum pattern.&#xD;
-&lt;/p></sectionDescription>
+    <sectionDescription>O&amp;nbsp; &lt;a class=&quot;elementLink&quot; href=&quot;./../../Easy/roles/product_owner_D991557B.html&quot; guid=&quot;_ICJyYPpaEdqsc-f87sBK8A&quot;>Product&#xD;
+Owner&lt;/a>&amp;nbsp;estabelece uma primeira lista de requisitos (um requisito torna-se um Item de Backlog do Produto) ele deseja&#xD;
+ser implementado para o final do lançamento.Para completar esta lista e obter um backlog suficiente, é melhor organizar uma&#xD;
+workshop que inclua toda a equipe mais o &lt;a class=&quot;elementLink&quot; href=&quot;./../../Easy/roles/stakeHolder_1207C822.html&quot;&#xD;
+guid=&quot;_Qqmp8P_AEdqtbrr0B1TG-A&quot;>Stakeholder&lt;/a>. Durante este workshop, o product owner apresenta seu rascunho de backlog e&#xD;
+cada um pode sugerir itens adicionais.É freqüente que um item de backlog seja identificado como uma história do usuário,&#xD;
+técnica que vem da EXtreme Programming (XP).</sectionDescription>
   </sections>
   <sections xmi:id="_u0Z7sAPJEdubhrgDuRb4fA" name="Priorizar Backlog " guid="_u0Z7sAPJEdubhrgDuRb4fA">
     <sectionDescription>&lt;p>&#xD;
